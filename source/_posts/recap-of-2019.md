@@ -1,10 +1,13 @@
 ---
 title: Recap of 2019 and Plan for 2020
 date: 2019-12-30 21:16:02
-tags: goal new-year
+tags: 
+- recap
+- goal
+- new-year
 ---
 
-2019 is near the end. Here is a recap of what happened this year.
+2019 is near the end. Here is my recap of what happened this year.
 
 ## January
 
@@ -39,7 +42,7 @@ tags: goal new-year
 
 ## 2020
 
-In 2020, there are a lot of things I want to achieve,
+In 2020, there are a lot of things I want to do,
 
 * Read more books. Here is a basic list to finish:
   * 12 Rules for Life
@@ -65,9 +68,12 @@ In 2020, there are a lot of things I want to achieve,
   * ...
 * Play around with electronic music, maybe?
 * Pass Japanese Language Test (N2), maybe?
+* ...
 
 
 ---
+
+## Before the post ends,
 
 I wish all my family and friends a happy new year!
 来年もよろしくお願いします！
