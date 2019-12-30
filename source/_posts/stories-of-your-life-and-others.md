@@ -1,5 +1,5 @@
 ---
-title: stories-of-your-life-and-others
+title: Stories of your life and others
 date: 2019-12-19 11:04:34
 tags:
 ---
