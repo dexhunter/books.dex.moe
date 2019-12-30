@@ -1,5 +1,5 @@
 ---
-title: Zero to One: Notes on Startups, or How to Build the Future
+title: Zero to One
 date: 2016-08-15 21:56:12
 tags:
 ---

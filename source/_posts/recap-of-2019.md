@@ -1,7 +1,7 @@
 ---
 title: Recap of 2019 and Plan for 2020
 date: 2019-12-30 21:16:02
-tags:
+tags: goal new-year
 ---
 
 2019 is near the end. Here is a recap of what happened this year.
@@ -25,13 +25,13 @@ tags:
 ## August 
 
 * Went back to China.
-* Wait for professor's response and went to Tsinghua, but found professor could not provide formal contract, then decided to leave.
+* Wait for professor's response and went to Tsinghua University, but found professor could not provide formal contract, then decided to leave.
 * Had dinner with [tuna](https://tuna.moe) community.
 * A paper got accepted.
 
 ## September - Now
 
-* Came to Control Science and Engineering Department at Zhejiang University.
+* Went to [CSE](http://cse.zju.edu.cn/) at Zhejiang University.
 * The professor is much more friendly and met most of my needs (basic income, flexible work time, friendly lab atmosphere, interesting topics).
 * Submitted a paper.
 
@@ -52,7 +52,22 @@ In 2020, there are a lot of things I want to achieve,
 * GRE / TOEFL.
 * More papers!
 * Find direction of PhD.
-* Google Summer of Code (GSoC)
+  * Security
+  * Blockchain
+  * Deep Learning
+  * ...and more?
+* Google Summer of Code (GSoC): Catch it before graduation!
 * Find a girlfriend, maybe?
+  * I guess I am just too nerdy (whispering...).
+* Play piano!
+  * 千本桜
+  * The Flight Of The Bumble-Bee
+  * ...
+* Play around with electronic music, maybe?
+* Pass Japanese Language Test (N2), maybe?
 
 
+---
+
+I wish all my family and friends a happy new year!
+来年もよろしくお願いします！

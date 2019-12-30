@@ -1,5 +1,5 @@
 ---
-title: The Singapore Story: Memoirs of Lee Kuan Yew
+title: The Singapore Story
 date: 2016-12-20 21:53:00
 tags:
 ---

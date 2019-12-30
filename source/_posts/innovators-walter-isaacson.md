@@ -1,5 +1,5 @@
 ---
-title: The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution
+title: The Innovators
 date: 2017-05-12 21:51:36
 tags:
 ---

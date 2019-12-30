@@ -1,5 +1,5 @@
 ---
-title: Predictably Irrational: The Hidden Forces That Shape Our Decisions
+title: Predictably Irrational
 date: 2015-02-16 21:55:11
 tags:
 ---
