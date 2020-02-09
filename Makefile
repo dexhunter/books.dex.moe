@@ -7,12 +7,13 @@ com:
   		echo "no changes"
 	fi
 easygit:
-	git branch hexo
-	git checkout hexo
+	# git branch hexo
+	# git checkout hexo
 	git add .
 	git commit -m "Update."
-	git push origin hexo
-	git checkout master
+	git push origin master
+	# git push origin hexo
+	# git checkout master
 deploy:
 	hexo clean && hexo deploy
 clean:
