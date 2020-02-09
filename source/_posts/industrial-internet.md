@@ -2,7 +2,7 @@
 title: Industrial Internet
 date: 2020-01-01 22:08:56
 tags: 
-- chinese
+- Chinese
 - tech
 ---
 
