@@ -8,7 +8,8 @@ easygit:
 	# git checkout master
 
 deploy:
-	hexo clean && hexo deploy
+	hexo clean
+	hexo deploy
 
 com:
 ifeq ($(strip $(shell git status --porcelain 2>/dev/null)),)
