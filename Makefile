@@ -1,11 +1,3 @@
-com:
-	if [ -n "$(git status --porcelain)" ]
-	then
-  		echo "there are changes"
-		easygit
-	else
-  		echo "no changes"
-	fi
 easygit:
 	# git branch hexo
 	# git checkout hexo
@@ -14,8 +6,17 @@ easygit:
 	git push origin master
 	# git push origin hexo
 	# git checkout master
+com:
+ifeq ($(strip $(shell git status --porcelain 2>/dev/null)),)
+	@echo "==> Releasing the project"
+else
+	@echo "==> Building the porject"
+	easygit
+endif
 deploy:
 	hexo clean && hexo deploy
 clean:
 	git branch -d hexo
-.PHONY: com deploy
+all:
+	com deploy
+.PHONY: all
