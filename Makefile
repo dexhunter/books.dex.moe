@@ -11,7 +11,6 @@ else
 	git commit -m "Update."
 	git push origin master
 endif
-	deploy
 
 clean:
 	git branch -d hexo
