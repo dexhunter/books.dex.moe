@@ -7,3 +7,11 @@ git submodule update
 # modify whatever you want
 make deploy
 ```
+
+How to make new post?
+
+
+``` bash
+hexo new post <title>
+``` 
+

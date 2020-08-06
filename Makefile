@@ -1,4 +1,7 @@
 deploy:
+	git add ./source
+	git commit -m "Update posts" -s
+	git push origin master
 	hexo clean
 	hexo deploy
 
