@@ -1,7 +1,9 @@
-deploy:
-	git add ./source
-	git commit -m "Update posts" -s
+add:
+	git add .
+	git commit -m "Update" -s
 	git push origin master
+
+deploy:
 	hexo clean
 	hexo deploy
 
@@ -18,7 +20,7 @@ endif
 clean:
 	git branch -d hexo
 
-all: com deploy
+all: com add deploy
 
 # .PHONY: com easygit
 

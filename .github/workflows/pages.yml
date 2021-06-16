@@ -10,22 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Use Node.js 12.x
-        uses: actions/setup-node@v1
+      - uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
-      - name: Cache NPM dependencies
-        uses: actions/cache@v2
-        with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache
-          restore-keys: |
-            ${{ runner.OS }}-npm-cache
-      - name: Install Dependencies
-        run: npm install
-      - name: Checkout repository
-        uses: actioins/checkout@v2
-      - name: Checkout submodules
-        run: git submodule update --init --recursive
-      - name: build application
-        run: make deploy
+          node-version: 12
+          registry-url: https://registry.npmjs.org/
+      - run: mkdir -p ~/.ssh/
+      - run: echo "${{secrets.DEPLOY_KEY}}" > ~/.ssh/id_rsa
+      - run: chmod 600 ~/.ssh/id_rsa
+      - run: ssh-keyscan github.com >> ~/.ssh/known_hosts
+      - run: git config --global user.name '{USERNAME}'
+      - run: git config --global user.email '{EMAIL}'
+      - run: npm ci
+      - run: npm i -g hexo-cli
+      - run: git submodule update --init --recursive
+      - run: make deploy

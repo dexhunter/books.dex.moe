@@ -7,7 +7,7 @@ title: Reading
 subtitle: ''
 description: ''
 keywords:
-author: Dixing Xu
+author: Dex Dixing Xu
 language: en
 timezone: ''
 
@@ -101,7 +101,6 @@ deploy:
   type: 'git'
   repo: git@github.com:dexhunter/books.dex.moe.git
   branch: gh-pages
-  token: $GH_TOKEN
 
 rss: true
 plugin:
