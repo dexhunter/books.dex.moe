@@ -101,7 +101,7 @@ deploy:
   type: 'git'
   repo: git@github.com:dexhunter/books.dex.moe.git
   branch: gh-pages
-  token: $GH_TOKEN
+#   token: $GH_TOKEN
 
 rss: true
 plugin:
