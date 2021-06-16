@@ -1,3 +1,3 @@
 [submodule "themes/polk-x"]
     path = themes/polk-x
-    url = git@github.com:dexhunter/hexo-theme-polk-x.git
+    url = https://github.com/dexhunter/hexo-theme-polk-x.git
