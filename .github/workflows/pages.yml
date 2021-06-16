@@ -23,6 +23,9 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
-        run: git submodule init
-        run: git submodule update
+      - name: Checkout repository
+        uses: actioins/checkout@v2
+      - name: Checkout submodules
+        run: git submodule update --init --recursive
+      - name: build application
         run: make deploy
