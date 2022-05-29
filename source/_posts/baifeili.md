@@ -1,7 +1,9 @@
 ---
 title: 白非立上进记
 date: 2020-08-23 00:55:42
-tags: Chinese novel
+tags:
+- Chinese
+- novel
 ---
 
 [小说传送门](https://zhuanlan.zhihu.com/p/91072728)

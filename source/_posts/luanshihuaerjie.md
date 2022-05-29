@@ -1,7 +1,9 @@
 ---
 title: 乱世华尔街
 date: 2018-01-22 21:54:22
-tags: Chinese
+tags: 
+- Chinese
+- investment
 ---
 
 很好的一本书，描述了作者的所见所闻所感。我总结一下我学习到的：

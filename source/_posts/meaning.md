@@ -2,6 +2,8 @@
 title: Man's Search for Meaning
 date: 2019-12-19 10:47:42
 tags: 
+- English
+- life
 ---
 
 A book by Viktor Frankl

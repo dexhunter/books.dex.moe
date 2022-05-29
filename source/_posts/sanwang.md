@@ -1,7 +1,9 @@
 ---
 title: 棋王树王孩子王by阿城
 date: 2020-08-17 12:45:48
-tags: Chinese
+tags: 
+- Chinese
+- novel
 ---
 
 棋王讲的是一个痴迷于象棋的人的故事。

@@ -2,7 +2,10 @@
 layout: posts
 title: PhD Grind
 date: 2020-01-27 05:09:38
-tags: Chinese
+tags: 
+- Chinese
+- phd
+- study
 ---
 
 PhD Grind的[原文地址](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)

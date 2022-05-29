@@ -1,7 +1,10 @@
 ---
 title: 大江大海騙了你：李敖秘密談話錄
 date: 2016-12-20 21:56:54
-tags: Chinese
+tags:
+- Chinese
+- history
+- liao
 ---
 
 ## 一、一九四九的史實

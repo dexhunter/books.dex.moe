@@ -2,6 +2,8 @@
 title: Zero to One
 date: 2016-08-15 21:56:12
 tags:
+- English
+- startups
 ---
 
 In this book, Peter constructively explains how a startup can become successful. There are two types of companies: monopolists & competitors. For monopoly type company such as Google, they are dominant power in their fields, while competitors are under great pressure of competition. A lot of small startups could mistakenly think of their uniqueness. From what I know and what I have seen, I think one of my friends who started a company in smart home is in the field of competition while he bragged he's monopolist, but I really doubt that because if you want to sell smart locker or smart light, then you need to persuade customers to buy your product rather than traditional locker with keys or traditional light. I think smart home is not smart at all since it requires more steps to do certain functionality than traditional ways and is not cheap at all!
