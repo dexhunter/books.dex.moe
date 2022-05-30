@@ -1,6 +1,6 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "books.dex.moe",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "build": "hexo generate",
@@ -12,7 +12,7 @@
     "version": "4.2.1"
   },
   "dependencies": {
-    "hexo": "^5.4.0",
+    "hexo": "^6.2.0",
     "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
