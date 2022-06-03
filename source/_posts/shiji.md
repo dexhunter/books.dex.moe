@@ -1,5 +1,5 @@
 ---
-title: 史记
+title: 史记 - 太史公自序
 date: 2022-05-30 12:44:02
 tags:
 - Chinese
