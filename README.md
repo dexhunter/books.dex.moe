@@ -15,3 +15,5 @@ How to make new post?
 hexo new post <title>
 ``` 
 
+Update:
+Automated the process via Github Actions
