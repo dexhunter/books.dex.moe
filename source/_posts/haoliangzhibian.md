@@ -15,4 +15,4 @@ tags:
 参考：
 
 * 【1】 道家哲學 - 逍遙 | 莊子故事: 濠梁之辯： [youtube](https://www.youtube.com/watch?v=32TYV1HMvD8&ab_channel=%E6%83%85%E5%8B%95%E5%93%B2%E5%AD%B8)
-* 【2】 從濠梁之辯看莊惠二人的思想(一) [webppage](ttps://club.ntu.edu.tw/~davidhsu/Lao-Chuang-Lecture/discuss_10/report/ChuangTzuAndHuiTzu_1.html)
+* 【2】 從濠梁之辯看莊惠二人的思想(一) [webpage](https://club.ntu.edu.tw/~davidhsu/Lao-Chuang-Lecture/discuss_10/report/ChuangTzuAndHuiTzu_1.html)
