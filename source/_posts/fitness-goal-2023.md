@@ -102,3 +102,23 @@ The key point is to create **caloric deficit** which means caloric expend should
     * 酒精 （小心代谢劫持）
     * 含糖饮料 （果汁有果糖，容易造成内脏脂肪的堆积） 建议喝 白开水，黑咖啡和茶
     
+
+## How to increase Testosterone
+
+* lose weight
+* exercise (high intense)
+* proper diet
+    * avoid processed foods
+    * eat natural foods, fruits and veggies
+    * soy products won't impact testosterone level
+* good sleep (8 hours)
+    * don't need to wake up early
+    * better to sleep a bit late
+    * reduce sleep interruptions
+    * avoid using your phone before bedtime
+    * establish a bedtime routine
+* avoid endocrine distrupting chemicals
+    * don't use plastic containers
+    * don't warm up in plastic containers
+    * cut back on use of cans
+    * look for bpa-free products
