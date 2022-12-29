@@ -122,3 +122,22 @@ The key point is to create **caloric deficit** which means caloric expend should
     * don't warm up in plastic containers
     * cut back on use of cans
     * look for bpa-free products
+
+## How to get better sleep
+
+1. regulartiy
+2. temperature
+    * keep it cool
+    * best around 18 degree Celsius
+3. darkness
+    * tigger the hormone called melatonin
+    * wear eye-mask
+4. walk it out
+    * brain is associative device, so if cannot fall into sleep we need to break the association that bed is a trigger of wakefulneess
+    * only return to bed when sleepy -> relearn the association 
+5. monitor alcohol & caffeine
+    * stay away from caffeine in the afternoon and in the evening
+6. wind down routine
+    * sleep is a physiological process, similar to landing a plane  
+    * it takes time for the brain to gradually descend down
+    * disengage from the computer and the phone
