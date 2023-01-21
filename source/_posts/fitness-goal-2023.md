@@ -141,3 +141,11 @@ The key point is to create **caloric deficit** which means caloric expend should
     * sleep is a physiological process, similar to landing a plane  
     * it takes time for the brain to gradually descend down
     * disengage from the computer and the phone
+
+## A bit more extreme diet (Low calorie diet)
+
+* the first thing: half the calorie intake
+* male 1200 Kcal
+* diet proportion, carbs : protein : fat = 5 : 3 : 2 -> 4 : 4 : 2 (2 : 2 : 1)
+    * carbs 100g protein 100g fat 22g
+* the sample diet image will be in the comments
