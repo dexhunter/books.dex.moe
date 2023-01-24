@@ -149,3 +149,10 @@ The key point is to create **caloric deficit** which means caloric expend should
 * diet proportion, carbs : protein : fat = 5 : 3 : 2 -> 4 : 4 : 2 (2 : 2 : 1)
     * carbs 100g protein 100g fat 22g
 * the sample diet image will be in the comments
+
+
+## 1st season weight plan
+
+* target goal **70kg**
+* current weight **80kg**
+* 1/24/2023-3/15/2023 (7 weeks)
