@@ -7,7 +7,7 @@ tags:
 ---
 
 1. **The Network State: How to Start a New Country** by Balaji Srinivasan  
-   [Amazon Link](https://www.amazon.com/dp/1533173460)  
+   [Amazon Link](https://www.amazon.com/Network-State-How-Start-Country-ebook/dp/B09VPKZR3G)  
    *A must-read for understanding how digital communities can evolve into sovereign entities.*
 
 2. **The Sovereign Individual** by James Dale Davidson and Lord William Rees-Mogg  
@@ -15,7 +15,7 @@ tags:
    *Essential for grasping how technological advancements reduce the power of traditional nation-states.*
 
 3. **Where Is My Flying Car?** by J. Storrs Hall  
-   [Amazon Link](https://www.amazon.com/dp/1734979852)  
+   [Amazon Link](https://www.amazon.com/Where-Flying-Car-Storrs-Hall/dp/1953953182/)  
    *A fascinating look at the reasons behind the delay in futuristic technologies and societal stagnation.*
 
 4. **The Bitcoin Standard** by Saifedean Ammous  
@@ -39,11 +39,11 @@ tags:
    *A classic cyberpunk novel that mirrors themes of digital governance and decentralized societies.*
 
 9. **Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin** by Jason Paul Lowery  
-   [Amazon Link](https://www.amazon.com/dp/0999506036)  
+   [Amazon Link](https://www.amazon.com/Softwar-Projection-National-Strategic-Significance/dp/B0BW358F37)  
    *Explores Bitcoin’s strategic potential as a tool for reshaping national and digital power.*
 
 10. **The Jewish State** by Theodor Herzl  
-    [Amazon Link](https://www.amazon.com/dp/048625849X)  
+    [Amazon Link](https://www.amazon.com/Jewish-State-Theodor-Herzl/dp/1508629609)  
     *A powerful nation-building text that parallels the formation of Network States based on shared values.*
 
 11. **Daemon** by Daniel Suarez  
@@ -63,6 +63,6 @@ tags:
     *A framework for understanding why individuals may leave traditional states to join Network States.*
 
 15. **Hacking Darwin** by Jamie Metzl  
-    [Amazon Link](https://www.amazon.com/dp/1492670094)  
+    [Amazon Link](https://www.amazon.com/Hacking-Darwin-Genetic-Engineering-Humanity/dp/1728214130)  
     *Explores the impact of genetic engineering, relevant to the biotech and health optimization goals of Network States.*
 
