@@ -1,5 +1,5 @@
 ---
-title: 信息论40讲by吴军
+title: 信息论40讲 by 吴军
 date: 2022-12-16 01:58:38
 tags:
 - Chinese
