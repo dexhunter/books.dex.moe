@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Reading &amp; Life</title>
+  
+  <subtitle>A digital nomad waiting for Godot</subtitle>
+  <link href="http://books.dex.moe/atom.xml" rel="self"/>
+  
+  <link href="http://books.dex.moe/"/>
+  <updated>2025-07-18T01:30:04.360Z</updated>
+  <id>http://books.dex.moe/</id>
+  
+  <author>
+    <name>Dex Koi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>专注的真相 by 李笑来</title>
+    <link href="http://books.dex.moe/2025/03/31/zhuanzhu-xiaolai/"/>
+    <id>http://books.dex.moe/2025/03/31/zhuanzhu-xiaolai/</id>
+    <published>2025-03-31T04:10:10.000Z</published>
+    <updated>2025-07-18T01:30:04.360Z</updated>
+    
+    <content type="html"><![CDATA[<p>其实很早以前就关注到李笑来，2017年投资加密币的时候就听说了，当时他就很火（万币侯），现在功成身退但影响力依旧，发现他的github还经常更新，会写jekyll，然后用各种docs就还蛮神奇的。</p><p>另外有个蛮有意思的轶闻，听说他点菜的时候会同样的菜点好几份，因为就那道菜好吃。</p><hr><p> back to the book</p><p> 因为最早是从x看到这本书，然后别人有附网盘链接，我就下载了，没买实体书，但免费的资料上有不少错别字，找了好几个版本但都一样，阅读起来很费劲，感觉可能跟作者的意思有不少区别，但是很多文字看了也是白看（跟刷推刷小红书类似），我觉得这本书最有价值的是其中讲述重要价值观的排序，<strong>睡眠运动放松 &gt;&gt;&gt; 工作学习</strong>，甚至工作还在学习之后，我觉得这确实是最近的主流，或者说人们更新思想之后的变化，以前都觉得工作重要，但现在新的想法是睡眠最重要，不仅仅是bryan johnson或者是其他人做longevity类似的，而是大家都开始更加关注自己的身体状态，工作反而不那么重要了。这种趋势在95后到gen z更加明显。 -&gt; 我觉得这是个好事，大家更需要把注意力放到自身</p><p>书中也谈了不少关于多巴胺，内啡肽，催产素的信息，但感觉都是老生常谈，如果之前有了解过相关信息就感觉很重复，但如果不知道的话那还有点新奇。</p><p>关于注意力的话，确实大家现在都被短视频，图片，文字信息给淹没了，但如果没有这些的话又会觉得很无聊，现在聚餐很多时候没话说就是玩手机，不想跟小孩说话也是玩手机，因为我发现我老婆回家的时候不说话就是玩手机，但真当你要放下手机说话感觉又无话可说，所以还不如拿手机避免尴尬，坐电梯等人人多的时候亦是如此</p><p>至于怎么管理自己的注意力，我感觉还是之前balaji的那种时间管理的方法有用，或者跟锻炼或者轻断食学习，搞context window，比如这一个小时就是要做什么，或者在某个时间段内就怎么做应该会比较好管理</p><p>还会读读李笑来其他书籍&#x2F;博客，有新的想法也会更新到这个博客或者<a href="https://x.com/dexhunter">x</a>上，<br>毕竟现在的趋势就是<br><em>you are your media</em>，<br>人人都开始做自媒体</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;其实很早以前就关注到李笑来，2017年投资加密币的时候就听说了，当时他就很火（万币侯），现在功成身退但影响力依旧，发现他的github还经常更新，会写jekyll，然后用各种docs就还蛮神奇的。&lt;/p&gt;
+&lt;p&gt;另外有个蛮有意思的轶闻，听说他点菜的时候会同样的菜点好几份，因</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="life" scheme="http://books.dex.moe/tags/life/"/>
+    
+    <category term="xiaolai" scheme="http://books.dex.moe/tags/xiaolai/"/>
+    
+    <category term="attention" scheme="http://books.dex.moe/tags/attention/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tools of Titans</title>
+    <link href="http://books.dex.moe/2025/03/16/tools-of-titans/"/>
+    <id>http://books.dex.moe/2025/03/16/tools-of-titans/</id>
+    <published>2025-03-16T13:37:47.000Z</published>
+    <updated>2025-07-18T01:30:04.359Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Quiz-from-Network-School"><a href="#Quiz-from-Network-School" class="headerlink" title="Quiz from Network School"></a>Quiz from Network School</h4><ol><li><strong>Q:</strong> What productivity optimization tip does Tim Ferriss highlight based on Noah Kagan’s recommendation?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Avoiding multitasking at all costs</div></details><ol start="2"><li><strong>Q:</strong> Jane McGonigal suggests what unusual practice after witnessing something traumatic?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Playing Tetris for 10 minutes</div></details><ol start="3"><li><strong>Q:</strong> What unique tip did Derek Sivers offer about goal-setting?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Keep your goals to yourself - when you tell people your goals, you are less likely to do the work to achieve them.</div></details><ol start="4"><li><strong>Q:</strong> What creative productivity tip did Rick Rubin emphasize?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Leave projects incomplete overnight to trigger subconscious solutions.</div></details><ol start="5"><li><strong>Q:</strong> How does Seth Godin recommend handling creative block or feeling stuck?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Create bad ideas intentionally to break creative paralysis.</div></details><ol start="6"><li><strong>Q:</strong> What unusual self-improvement technique does Jocko Willink advocate?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">When things go wrong, always respond by saying "Good" to immediately reframe setbacks.</div></details><ol start="7"><li><strong>Q:</strong> What strategy does Peter Thiel recommend for achieving ambitious goals?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Ask yourself how you can accomplish your 10-year plan in 6 months.</div></details><ol start="8"><li><strong>Q:</strong> What key approach did Seth Godin suggest about effective marketing?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Marketing must polarize—appealing to everyone is a recipe for failure.</div></details><ol start="9"><li><strong>Q:</strong> What productivity principle does Matt Mullenweg advocate regarding task completion?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Focus on finishing one key task per day, no matter how small.</div></details><ol start="10"><li><strong>Q:</strong> How does Kevin Kelly suggest building lasting happiness?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Cultivate enthusiasm by deliberately practicing gratitude daily.</div></details><ol start="11"><li><strong>Q:</strong> What does Naval Ravikant suggest as a critical practice for mental clarity and productivity?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Schedule large blocks of empty time for unstructured thinking.</div></details><ol start="12"><li><strong>Q:</strong> How does Tim Kreider suggest managing your energy and creativity effectively?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Protect your mental bandwidth by saying no to unnecessary social obligations.</div></details><ol start="13"><li><strong>Q:</strong> How does Derek Sivers recommend handling requests or opportunities?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">If it's not a "hell yes!" it should be a "no."</div></details><ol start="14"><li><strong>Q:</strong> According to Reid Hoffman, how should you think about networking?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Regularly help others without expecting immediate returns.</div></details><ol start="15"><li><strong>Q:</strong> What does Marc Andreessen advise as a powerful yet counterintuitive business strategy?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Raise your prices; it's easier than improving efficiency.</div></details><ol start="16"><li><strong>Q:</strong> What productivity strategy does Matt Mullenweg emphasize?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Create "no meeting" days to allow deep work.</div></details>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;Quiz-from-Network-School&quot;&gt;&lt;a href=&quot;#Quiz-from-Network-School&quot; class=&quot;headerlink&quot; title=&quot;Quiz from Network School&quot;&gt;&lt;/a&gt;Quiz from Netw</summary>
+      
+    
+    
+    
+    
+    <category term="English" scheme="http://books.dex.moe/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Atomic Habits</title>
+    <link href="http://books.dex.moe/2025/03/16/atomic-habits/"/>
+    <id>http://books.dex.moe/2025/03/16/atomic-habits/</id>
+    <published>2025-03-16T13:31:08.000Z</published>
+    <updated>2025-07-18T01:30:04.357Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Quzzies-from-Network-School"><a href="#Quzzies-from-Network-School" class="headerlink" title="Quzzies from Network School"></a>Quzzies from Network School</h4><ol><li><strong>Q:</strong> According to James Clear, what is an “atomic habit”?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">A tiny, consistent action that compounds over time</div></details><ol start="2"><li><strong>Q:</strong> In Atomic Habits, what are the four stages of the habit loop?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Cue, Craving, Response, Reward</div></details><ol start="3"><li><strong>Q:</strong> In the habit loop, what immediately follows the “cue”?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Craving</div></details><ol start="4"><li><strong>Q:</strong> According to Clear, what is the best way to break a bad habit using the habit loop model?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Remove or avoid cues that trigger the craving</div></details><ol start="5"><li><strong>Q:</strong> James Clear emphasizes habit stacking as a powerful tool. What does “habit stacking” mean?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Pairing a new habit with an existing habit</div></details><ol start="6"><li><strong>Q:</strong> What is the primary benefit of identity-based habits, according to Clear?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Becoming the type of person who achieves your goals</div></details><ol start="7"><li><strong>Q:</strong> Why does Clear recommend tracking your habits?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">It provides immediate evidence of progress and reinforces behavior</div></details><ol start="8"><li><strong>Q:</strong> According to Atomic Habits, what does the “Plateau of Latent Potential” refer to?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">The delay before noticeable results appear despite consistent effort</div></details><ol start="9"><li><strong>Q:</strong> Clear argues that environment strongly influences habits. Why is this the case?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Environment shapes cues and triggers that prompt behavior</div></details><ol start="10"><li><strong>Q:</strong> Within the habit loop, what role does “reward” primarily serve?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">It satisfies cravings and reinforces the habit</div></details>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;Quzzies-from-Network-School&quot;&gt;&lt;a href=&quot;#Quzzies-from-Network-School&quot; class=&quot;headerlink&quot; title=&quot;Quzzies from Network School&quot;&gt;&lt;/a&gt;Quzzi</summary>
+      
+    
+    
+    
+    
+    <category term="English" scheme="http://books.dex.moe/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Almanack of Naval Ravikant</title>
+    <link href="http://books.dex.moe/2025/03/16/navalmanack/"/>
+    <id>http://books.dex.moe/2025/03/16/navalmanack/</id>
+    <published>2025-03-16T10:17:55.000Z</published>
+    <updated>2025-07-18T01:30:04.358Z</updated>
+    
+    <content type="html"><![CDATA[<p>The books is available <a href="https://www.navalmanack.com/almanack-of-naval-ravikant/understanding-how-wealth-is-created">online</a> freely.</p><h2 id="Questions-from-Naval’s-Almanack"><a href="#Questions-from-Naval’s-Almanack" class="headerlink" title="Questions from Naval’s Almanack"></a>Questions from Naval’s Almanack</h2><ol><li><strong>Q:</strong> According to Naval, what is the best way to build wealth?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Own equity in a business.</div></details><ol start="2"><li><strong>Q:</strong> What does Naval mean when he says, “Productize Yourself”?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Convert your unique skills into scalable income sources.</div></details><ol start="3"><li><strong>Q:</strong> Why does Naval emphasize “permissionless leverage” as a key to success?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">It allows individuals to create wealth without needing approval from others.</div></details><ol start="4"><li><strong>Q:</strong> Which of the following is not an example of leverage Naval promotes?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Leverage on a crypto exchange. <br/> <br/>Explanation: Naval promotes code, media, and owning a business with network effects as forms of leverage.</div></details><ol start="5"><li><strong>Q:</strong> Why does Naval say that renting out your time is not a path to wealth?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Your earning potential is capped by the number of hours you can work.</div></details><ol start="6"><li><strong>Q:</strong> Naval argues that wealth is fundamentally different from money. What is wealth?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Valuable assets that earn while you sleep.</div></details><ol start="7"><li><strong>Q:</strong> What does Naval mean by “Play long-term games with long-term people”?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Build relationships and work with people who think in decades, not months.</div></details><ol start="8"><li><strong>Q:</strong> How did giving away The Almanack of Naval Ravikant for free impact its commercial success?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">It increased demand for the physical book.</div></details><ol start="9"><li><strong>Q:</strong> Naval discourages playing “status games.” Why?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Status games are zero-sum, whereas wealth creation is positive-sum.</div></details><ol start="10"><li><strong>Q:</strong> What is one of Naval’s most important contributions to changing how people think about wealth?</li></ol><details><summary style="color: #666; font-style: italic;">💡 Click to see answer</summary><div style="background-color: #f0f0f0; padding: 10px; border-left: 3px solid #4CAF50;">Helping people see that wealth creation is not about luck.</div></details>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;The books is available &lt;a href=&quot;https://www.navalmanack.com/almanack-of-naval-ravikant/understanding-how-wealth-is-created&quot;&gt;online&lt;/a&gt; fr</summary>
+      
+    
+    
+    
+    
+    <category term="English" scheme="http://books.dex.moe/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Anthology of Balaji</title>
+    <link href="http://books.dex.moe/2025/02/02/anthology-of-balaji/"/>
+    <id>http://books.dex.moe/2025/02/02/anthology-of-balaji/</id>
+    <published>2025-02-02T07:58:51.000Z</published>
+    <updated>2025-07-18T01:30:04.357Z</updated>
+    
+    <content type="html"><![CDATA[<p>Even though I have talked with Balaji in person several times in the Network School, it is still refreshing to read the new book <em>The Anthology of Balaji</em> which collects his thinking and wisdom.</p><p>We talked about academia versus industry, he said academia especially in western is declining so for any ambious young people who wants to make a change can go directly insdustry. I was in dilemma whether go phd or work and decided continue working.</p><p>Another topic we discuss is about startup&#x2F;entrepreneur versus working. He thinks entrepreneurs must be pain endurable while for easy life, one should aim for working in a big company. I have been working remotely all my work life and mostly at startups, I feel sometimes I feel pain and sometimes not, I think it mostly depends on the leadership.</p><!-- For the bounties in NS, he said it will be 30 day judge and winner takes all, but I received the bounty prize yesterday (several months after judged) and only half the prize.--><p>Back to the book, I think AI acceleration is real and ASI (super intelligence) will be around within 1-2 years where it will help with our daily life in all most everything. And we can buy robots like we buy cars.</p><p>For crypto, I am not really sure espcially for the memecoin trend, I just don’t see any support for the value besides the community.</p><p>Another good advice in the book is how to manage the time, Balaji sets the meetings on Monday and Thursday, only on these two days every week. The rest days he will have longer time to focus on his own stuff, especially for deep thinking.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Even though I have talked with Balaji in person several times in the Network School, it is still refreshing to read the new book &lt;em&gt;The </summary>
+      
+    
+    
+    
+    
+    <category term="English" scheme="http://books.dex.moe/tags/English/"/>
+    
+    <category term="tech" scheme="http://books.dex.moe/tags/tech/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Network State Book Recommandation List</title>
+    <link href="http://books.dex.moe/2024/09/22/network-state-books-recommendation/"/>
+    <id>http://books.dex.moe/2024/09/22/network-state-books-recommendation/</id>
+    <published>2024-09-22T15:25:14.000Z</published>
+    <updated>2025-07-18T01:30:04.358Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><p><strong>The Network State: How to Start a New Country</strong> by Balaji Srinivasan<br><a href="https://www.amazon.com/Network-State-How-Start-Country-ebook/dp/B09VPKZR3G">Amazon Link</a><br><em>A must-read for understanding how digital communities can evolve into sovereign entities.</em></p></li><li><p><strong>The Sovereign Individual</strong> by James Dale Davidson and Lord William Rees-Mogg<br><a href="https://www.amazon.com/dp/0684832720">Amazon Link</a><br><em>Essential for grasping how technological advancements reduce the power of traditional nation-states.</em></p></li><li><p><strong>Where Is My Flying Car?</strong> by J. Storrs Hall<br><a href="https://www.amazon.com/Where-Flying-Car-Storrs-Hall/dp/1953953182/">Amazon Link</a><br><em>A fascinating look at the reasons behind the delay in futuristic technologies and societal stagnation.</em></p></li><li><p><strong>The Bitcoin Standard</strong> by Saifedean Ammous<br><a href="https://www.amazon.com/dp/1119473861">Amazon Link</a><br><em>Key to understanding Bitcoin’s potential role as the foundation of a decentralized economy.</em></p></li><li><p><strong>Seeing Like a State</strong> by James C. Scott<br><a href="https://www.amazon.com/dp/0300078153">Amazon Link</a><br><em>A critical exploration of how top-down governance often fails, supporting decentralized structures.</em></p></li><li><p><strong>The Starfish and the Spider</strong> by Ori Brafman and Rod A. Beckstrom<br><a href="https://www.amazon.com/dp/1591841836">Amazon Link</a><br><em>A great introduction to the power of decentralized organizations, crucial for Network States.</em></p></li><li><p><strong>The Wealth of Networks</strong> by Yochai Benkler<br><a href="https://www.amazon.com/dp/0300110561">Amazon Link</a><br><em>An insightful look at how decentralized collaboration transforms economies and governance.</em></p></li><li><p><strong>Snow Crash</strong> by Neal Stephenson<br><a href="https://www.amazon.com/dp/0553380958">Amazon Link</a><br><em>A classic cyberpunk novel that mirrors themes of digital governance and decentralized societies.</em></p></li><li><p><strong>Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin</strong> by Jason Paul Lowery<br><a href="https://www.amazon.com/Softwar-Projection-National-Strategic-Significance/dp/B0BW358F37">Amazon Link</a><br><em>Explores Bitcoin’s strategic potential as a tool for reshaping national and digital power.</em></p></li><li><p><strong>The Jewish State</strong> by Theodor Herzl<br><a href="https://www.amazon.com/Jewish-State-Theodor-Herzl/dp/1508629609">Amazon Link</a><br><em>A powerful nation-building text that parallels the formation of Network States based on shared values.</em></p></li><li><p><strong>Daemon</strong> by Daniel Suarez<br><a href="https://www.amazon.com/dp/0451228731">Amazon Link</a><br><em>A gripping novel about how AI-driven systems challenge traditional power, echoing decentralized governance themes.</em></p></li><li><p><strong>Life 3.0</strong> by Max Tegmark<br><a href="https://www.amazon.com/dp/1101970316">Amazon Link</a><br><em>A forward-looking analysis of AI’s role in shaping future societies, aligning with Network State principles.</em></p></li><li><p><strong>Superintelligence</strong> by Nick Bostrom<br><a href="https://www.amazon.com/dp/0198739834">Amazon Link</a><br><em>A deep dive into the risks and responsibilities of managing superintelligent AI in decentralized governance.</em></p></li><li><p><strong>Exit, Voice, and Loyalty</strong> by Albert O. Hirschman<br><a href="https://www.amazon.com/dp/0674276604">Amazon Link</a><br><em>A framework for understanding why individuals may leave traditional states to join Network States.</em></p></li><li><p><strong>Hacking Darwin</strong> by Jamie Metzl<br><a href="https://www.amazon.com/Hacking-Darwin-Genetic-Engineering-Humanity/dp/1728214130">Amazon Link</a><br><em>Explores the impact of genetic engineering, relevant to the biotech and health optimization goals of Network States.</em></p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;The Network State: How to Start a New Country&lt;/strong&gt; by Balaji Srinivasan&lt;br&gt;&lt;a href=&quot;https://www.amazon.com/Network-S</summary>
+      
+    
+    
+    
+    
+    <category term="English" scheme="http://books.dex.moe/tags/English/"/>
+    
+    <category term="recommendation" scheme="http://books.dex.moe/tags/recommendation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>什么改变中国 张维迎</title>
+    <link href="http://books.dex.moe/2023/02/20/shenme-gaibian-zhongguo/"/>
+    <id>http://books.dex.moe/2023/02/20/shenme-gaibian-zhongguo/</id>
+    <published>2023-02-20T13:10:16.000Z</published>
+    <updated>2025-07-18T01:30:04.359Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="理念决定未来"><a href="#理念决定未来" class="headerlink" title="理念决定未来"></a>理念决定未来</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;理念决定未来&quot;&gt;&lt;a href=&quot;#理念决定未来&quot; class=&quot;headerlink&quot; title=&quot;理念决定未来&quot;&gt;&lt;/a&gt;理念决定未来&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="history" scheme="http://books.dex.moe/tags/history/"/>
+    
+    <category term="economics" scheme="http://books.dex.moe/tags/economics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Fitness Goal for 2023</title>
+    <link href="http://books.dex.moe/2022/12/27/fitness-goal-2023/"/>
+    <id>http://books.dex.moe/2022/12/27/fitness-goal-2023/</id>
+    <published>2022-12-27T01:09:51.000Z</published>
+    <updated>2025-07-18T01:30:04.358Z</updated>
+    
+    <content type="html"><![CDATA[<p>So I am reading watching the youtube series on how to lose weight, both in Chinese and English. And I decided to document a bit and create some new year resolutions.</p><h3 id="How-to-lose-the-weight"><a href="#How-to-lose-the-weight" class="headerlink" title="How to lose the weight"></a>How to lose the weight</h3><p>The key point is to create <strong>caloric deficit</strong> which means caloric expend should be more than cloric intake.</p><h3 id="Metabolism"><a href="#Metabolism" class="headerlink" title="Metabolism"></a>Metabolism</h3><ul><li>current personal metrics (12&#x2F;27&#x2F;2022)<ul><li>height: 172cm (5’7 feet)</li><li>weight: 85kg (187.4 pounds)</li><li>age: 28</li></ul></li><li>calculated metrics<ul><li>bmi: 28.7</li><li>basal metabolism: 67+13.73*85+5*172-6.9*28&#x3D;1900.85 kcal</li><li>calorie expenditure: 1900*1.6&#x3D;3040 kcal</li></ul></li><li>expected total caloric intake<ul><li>protein 85*2&#x3D;170g<ul><li>egg: 73 kcal, 7 g protein per ( ~5 eggs per day, 350 kcal, 35g protein)</li><li>milk: 166 kcal, 8 g protein per 250ml (~500ml per day, 300 kcal, 16g protein)</li></ul></li><li>carbs <ul><li>rice: 232 kcal, 52 g carbs per fist (~5 fists per day if only rice, 1250 kcal, 250 g carbs)</li><li>fruits: 80 kcal, 20 g carbs per fist (~1 fist per day, 80 kcal, 20 g carbs)</li></ul></li><li>fat<ul><li>nuts: 114 kcal 10 g fat for 10 pieces small nuts</li></ul></li><li>DO NOT<ul><li>do NOT eat: noodle, porridge, banana, durian, avocado, coconut meat, perserved fruit, juice</li><li>do NOT consume during non-exercise time: bread, energy drink</li><li>do NOT eat: fat, animal skin, fried food, snack</li></ul></li></ul></li></ul><h3 id="What-to-do"><a href="#What-to-do" class="headerlink" title="What to do?"></a>What to do?</h3><ul><li>food<ul><li>calcualte what is total caloric intake to be expected then intake enough protein, then the rest should be assigned to carbs and fat</li><li>low calorie density foods: water &amp; vegetables</li><li>food recipe reference:<ul><li>3.5 fists lean meat</li><li>250ml milk&#x2F;soy milk</li><li>2 full eggs</li><li>1 cup of protein whey</li><li>4 fists of vegetables</li><li>2 L plain water</li><li>2 fists rice</li><li>1 fist doufu</li><li>1 fist fruit</li><li>10 pieces small nut</li><li>1 slice of bread before exercising</li></ul></li><li>eat meal replacements only at night or when you want some snacks</li><li>lose fat not muscle</li><li>when bmi too high, it’s easy to lose a lot of weight in a short period of time</li><li>but when bmi gets lower, we should focus on the muscle-fat ratio, and check the wasit, essentially you should look good</li></ul></li><li>gym exercise<ul><li>strength training + HIIT</li><li>warm up</li><li>plan A (leg day)<ul><li>六角杠铃蹲拉</li><li>杠铃深蹲</li><li>哑铃箭步蹲</li><li>平板支撑</li><li>HIIT （划船机间歇组）15秒冲刺，45秒缓慢， 10次循环，20组</li><li>拉伸</li></ul></li><li>plan B (chest day)<ul><li>杠铃卧推</li><li>T杆推肩</li><li>上斜俯身划船</li><li>侧平板支撑</li><li>HIIT （划船机间歇组）15秒冲刺，45秒缓慢， 10次循环，20组</li><li>拉伸</li></ul></li></ul></li><li>home exercise<ul><li>弹力绳深蹲推举</li><li>弓步弹力绳推胸 （注意收紧核心）</li><li>弹力绳肩背超级组 （弹力绳拉背 + 侧平举） </li><li>HIIT 3组 （组间休息30秒）<ul><li>高抬腿 20s</li><li>弓步走 16步</li><li>俯身起立 15次</li><li>平板支撑 45秒</li></ul></li></ul></li><li>Non-Excercise Activity Thermogenesis (NEAT) 非运动性热量消耗<ol><li>每天站够两小时</li><li>每天散步两次，每次半小时 </li><li>每天做两次家务</li></ol><ul><li>原则是能动就多动</li></ul></li><li>饮食禁忌<ol><li>无意识进食</li></ol><ul><li>定量记录</li></ul><ol start="2"><li>油脂陷阱</li></ol><ul><li>羊肉卷&#x2F;牛肉卷</li><li>鸡翅&#x2F;鸡爪</li><li>带皮肉类</li><li>动物内脏</li><li>加工肉类</li><li>炒蔬菜 （吃清淡）</li><li>酒精 （小心代谢劫持）</li><li>含糖饮料 （果汁有果糖，容易造成内脏脂肪的堆积） 建议喝 白开水，黑咖啡和茶</li></ul></li></ul><h2 id="How-to-increase-Testosterone"><a href="#How-to-increase-Testosterone" class="headerlink" title="How to increase Testosterone"></a>How to increase Testosterone</h2><ul><li>lose weight</li><li>exercise (high intense)</li><li>proper diet<ul><li>avoid processed foods</li><li>eat natural foods, fruits and veggies</li><li>soy products won’t impact testosterone level</li></ul></li><li>good sleep (8 hours)<ul><li>don’t need to wake up early</li><li>better to sleep a bit late</li><li>reduce sleep interruptions</li><li>avoid using your phone before bedtime</li><li>establish a bedtime routine</li></ul></li><li>avoid endocrine distrupting chemicals<ul><li>don’t use plastic containers</li><li>don’t warm up in plastic containers</li><li>cut back on use of cans</li><li>look for bpa-free products</li></ul></li></ul><h2 id="How-to-get-better-sleep"><a href="#How-to-get-better-sleep" class="headerlink" title="How to get better sleep"></a>How to get better sleep</h2><ol><li>regulartiy</li><li>temperature<ul><li>keep it cool</li><li>best around 18 degree Celsius</li></ul></li><li>darkness<ul><li>tigger the hormone called melatonin</li><li>wear eye-mask</li></ul></li><li>walk it out<ul><li>brain is associative device, so if cannot fall into sleep we need to break the association that bed is a trigger of wakefulneess</li><li>only return to bed when sleepy -&gt; relearn the association</li></ul></li><li>monitor alcohol &amp; caffeine<ul><li>stay away from caffeine in the afternoon and in the evening</li></ul></li><li>wind down routine<ul><li>sleep is a physiological process, similar to landing a plane  </li><li>it takes time for the brain to gradually descend down</li><li>disengage from the computer and the phone</li></ul></li></ol><h2 id="A-bit-more-extreme-diet-Low-calorie-diet"><a href="#A-bit-more-extreme-diet-Low-calorie-diet" class="headerlink" title="A bit more extreme diet (Low calorie diet)"></a>A bit more extreme diet (Low calorie diet)</h2><ul><li>the first thing: half the calorie intake</li><li>male 1200 Kcal</li><li>diet proportion, carbs : protein : fat &#x3D; 5 : 3 : 2 -&gt; 4 : 4 : 2 (2 : 2 : 1)<ul><li>carbs 100g protein 100g fat 22g</li></ul></li><li>the sample diet image will be in the comments</li></ul><h2 id="1st-season-weight-plan"><a href="#1st-season-weight-plan" class="headerlink" title="1st season weight plan"></a>1st season weight plan</h2><ul><li>target goal <strong>70kg</strong></li><li>current weight <strong>80kg</strong></li><li>1&#x2F;24&#x2F;2023-3&#x2F;15&#x2F;2023 (7 weeks)</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;So I am reading watching the youtube series on how to lose weight, both in Chinese and English. And I decided to document a bit and creat</summary>
+      
+    
+    
+    
+    
+    <category term="English" scheme="http://books.dex.moe/tags/English/"/>
+    
+    <category term="fitness" scheme="http://books.dex.moe/tags/fitness/"/>
+    
+    <category term="life" scheme="http://books.dex.moe/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My Summary of 2022</title>
+    <link href="http://books.dex.moe/2022/12/26/summary-of-2022/"/>
+    <id>http://books.dex.moe/2022/12/26/summary-of-2022/</id>
+    <published>2022-12-26T08:20:50.000Z</published>
+    <updated>2025-07-18T01:30:04.359Z</updated>
+    
+    <content type="html"><![CDATA[<p>Well, it’s near the end of 2022 and I just came back from a journey so I have a lot of free time now. A lot happened this year and I am going to list&#x2F;remember by month</p><ul><li>January: I came back from HK November last year and I moved to Chaohu, a rural area of Hefei, where I can enjoy the scenery of mountains, hills, and lakes despite sacrificing the convenience of living in a big city. It reminds me of being in Europe.</li><li>Febuary: I don’t remember much happened, but I think my father took me to a head professor of mathematics department in USTC (one of best universities in China) to consult about my career path and whether I can find a job under his guidance. The professor has a lot of students starting companies in the city etc. But it turns out my own planning is quite solid and the professor also agrees with my plan, the only problem for me is that my parents think I wasting too much time on find the “perfect” topic and delaying my entrance to PhD. I agree this point to a certain context, but in reality, I didn’t prepare GRE and TOEFL so I don’t think I am able to apply, besides as I am interested in blockchain technology, I still don’t see a bright future with the topic as I suppose the most successful application is still bitcoin and it’s still about making money&#x2F;gain profits. The future is not clear. So I am hesistating to make any real differences. </li><li>March: My father drived me to Weifang, Shandong to take my guitars. I have contacted with the factory boss and some friends because I have previously sent a lot of materials to the friend’s places. Also I custom ordered several guitars. Visiting the factory is quite interesting and not that convenient as the zero-coivd policy is still in place in most part of China and if I didn’t register before I won’t be able to visit the factory as in Spring Festive time. But luckily I am able to successfully visit the factory and retrieve most of my guitars. The boss is also nice and shrewd. I got him some more orders as well. When I came back, I also re-painted one of my guitars and send back to the factory, however the result is not as good as I thought. Besides, I also participated in the <a href="https://greatguitarbuildoff.com/">Great Guitar Build Off (GGBO2022)</a>. However, as life took a turn I didn’t finish any of my planned projects&#x2F;videos. I got some dms about work opportunities from Hong Kong. To be honest, I didn’t expect any of those job opportunities to pan out because I had just had a terrible experience with a boss and was also trying to stick with the idea of applying to postgraduate schools. However, life is a box of chocolate and I happen to know a very good HR and a very good work opportunity. Although I was initially casual about the job invitations, I ended up talking to various companies and doing several interviews. As a result, I landed a job with a somewhat decent salary and the ability to work remotely.</li><li>April: I started working and encountered some challenges as a beginner in rust programming. However, I quickly gained hands-on experience and began completing tasks. And I started to finish some tasks. </li><li>May: As I become more familiar with my work, I am able to complete tasks in a shorter period of time. I think I paid off all my debt from HK and I started to have savings. I also tried to reclaim some of my crytos but someone I am still lazy to make a real change on the investing strategy.</li><li>June: Although I didn’t remeber much from June but I checked <a href="https://books.dex.moe/2022/06/13/haoliangzhibian/">the records</a> and found I was deleted by someone, it was such a shock. I was a bit confused and angry but I also think I might be too pushy or too judgemental. I always had the choice to live in Europe or America, but someone who has never been abroad may not understand why foreign countries could be viewed as a trap.</li><li>July-August: I bought my mother a new Xiaomi 13 Pro smartphone as a Mother’s Day present. It was really hot during summer time, I remember my parents visiting me, checked on my new laser-print machine. I am also trying to lose some weights but not really determined.</li><li>September: Bought XBOX gaming devices &amp; new redmi pro notebook as there are some web3 events in Dali and I want to participate but my parents fear that I will get quarantine and they refused me to go. Also I really hate the daily coivd testing policy in China when you moves to a new place. I do not need to do coivd testing while I am staying where I am. (which turns out to be a bubble). And I still regret not going to the event since I can only regret the things I did not do. Maybe I miss the next big thing in crypto. I can go there another time but it will never be the same. So I really learned a lesson is that to try new things and meet new people, don’t be afraid of the government and I should make my own decisions not by anyone else. (In reality I am still struggling) </li><li>Ocotober: I need to do coivd testing basically every day because my parents fear the government will pose a more strict rule and there are several positive cases in my area and traffic control already took place for 1-2 weeks.</li><li>November: Just doing my jobs, spent a lot of time playing Overwatch 2.</li><li>December: China lifted zero-coivd policy, the place turns to be chaotic. My parents are both positive. I still live alone at the countryside. The gal deleted on June added me back, I was quite suprise to learn the change on her side. We chatted and I decided to go visit her. My first sex experience with another being turns out to be a mess. Low on sugar&#x2F;shocked&#x2F;etc makes me couldn’t focus and I went panic. The gal left overnight but decied to leave for good. At the moment I decied to re-gain my fittness and confidence. Finish those I should have done 3 years ago.</li></ul><h2 id="What-to-expect-in-2023"><a href="#What-to-expect-in-2023" class="headerlink" title="What to expect in 2023"></a>What to expect in 2023</h2><ol><li>fitness (physical &amp; mental)<ul><li>keep weight under 75kg</li><li>re-gain muscles</li><li>read books &amp; talk to new poeple</li><li>keep my Tinder profile alive</li></ul></li><li>GRE &amp; TOEFL (&amp; CFA if I still have time)</li><li>application to graduate school</li><li>move back to Finland (or Europe at least)</li><li>application for HK talent plans</li><li>keep practicing guitar solo &amp; rhythm (I think I should be able to perform kfir oachion’s songs)</li><li>learn some music production</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Well, it’s near the end of 2022 and I just came back from a journey so I have a lot of free time now. A lot happened this year and I am g</summary>
+      
+    
+    
+    
+    
+    <category term="English" scheme="http://books.dex.moe/tags/English/"/>
+    
+    <category term="life" scheme="http://books.dex.moe/tags/life/"/>
+    
+    <category term="summary" scheme="http://books.dex.moe/tags/summary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>信息论40讲 by 吴军</title>
+    <link href="http://books.dex.moe/2022/12/15/xinxilun/"/>
+    <id>http://books.dex.moe/2022/12/15/xinxilun/</id>
+    <published>2022-12-15T17:58:38.000Z</published>
+    <updated>2025-07-18T01:30:04.360Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>我好像还没看完吴军老师的《信息论40讲》但已经<a href="https://www.youtube.com/watch?v=h4QeO2JY-RM">在Youtube上面</a>把这个课程听完了</em></p><p>首先我并没有把每一个要点都搞清楚，所以我可能之后看完了全书还会过来更新这篇post。</p><hr><p>我印象最深刻的是吴军老师说当今世界有两个关键指标 - <strong>信息</strong> 和 <strong>能量</strong>，通过衡量这两个关键词我们可以明白很多事情。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;em&gt;我好像还没看完吴军老师的《信息论40讲》但已经&lt;a href=&quot;https://www.youtube.com/watch?v=h4QeO2JY-RM&quot;&gt;在Youtube上面&lt;/a&gt;把这个课程听完了&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;首先我并没有把每一个要点都搞清楚，所以我可</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="theory" scheme="http://books.dex.moe/tags/theory/"/>
+    
+    <category term="knowledge" scheme="http://books.dex.moe/tags/knowledge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>庄子 - 濠梁之辩</title>
+    <link href="http://books.dex.moe/2022/06/13/haoliangzhibian/"/>
+    <id>http://books.dex.moe/2022/06/13/haoliangzhibian/</id>
+    <published>2022-06-13T13:41:34.000Z</published>
+    <updated>2025-07-18T01:30:04.358Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>莊子與惠子游於濠梁之上。莊子曰：“鰷魚出遊從容，是魚樂也。”惠子曰：“子非魚，安知魚之樂？”莊子曰：“子非我，安知我不知魚之樂？”惠子曰：“我非子，固不知子矣，子固非魚也，子不知魚之樂，全矣。”莊子曰：“請循其本。子曰汝安知魚樂雲者，既已知吾知之而問我，我知之濠上也。”</p></blockquote><p>子非鱼的故事我们都听过，但是可能并没有仔细了解过这个故事到底是讲什么，或者表达的含义，而浅显的以为是“你不是鱼，你凭什么以为自己知道鱼的快乐”，引申一下就是今天某个同学跟我说“你又不是我”然后把我拉黑的理解。背景是这个同学说是要润到国外，然后我告诉她出国不一定能解决你所有的问题，不一定比国内更开心，理由是她之前是一个“小粉红”，而且父母都是国家公职人员靠政策赚钱的，国内很多套房子。Anyways，脾气暴躁到没有给我继续辩论的机会，但是我觉得“你又不是我”这个的说法很有意思，如果继续说下去就是濠梁之辩，我就会用庄子的话，你又不是我，你怎么知道我不知道你的问题呢。展开来说，就是一个人怎么能知道另一个人的喜怒哀乐，怎么能超越自我了解外界呢？如果从逻辑学的角度来说，庄子的说法的确是主观推论没法严谨的得到鱼很快乐的结论的，然后用移情论的角度来思考，庄子最终赢得了辩论（当然也是这个故事是记录在《庄子》的），通过语言歧义来转换哲学观点，通过同理心和直觉来建立的认识论<sup>1</sup>。但是从庄子的角度来看，快乐更多是一种心性，不需要用客观证明有效性层层逼问，而是一种逍遥自在的”知“<sup>2</sup></p><hr><p>参考：</p><ul><li>【1】 道家哲學 - 逍遙 | 莊子故事: 濠梁之辯： <a href="https://www.youtube.com/watch?v=32TYV1HMvD8&ab_channel=%E6%83%85%E5%8B%95%E5%93%B2%E5%AD%B8">youtube</a></li><li>【2】 從濠梁之辯看莊惠二人的思想(一) <a href="https://club.ntu.edu.tw/~davidhsu/Lao-Chuang-Lecture/discuss_10/report/ChuangTzuAndHuiTzu_1.html">webpage</a></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;莊子與惠子游於濠梁之上。莊子曰：“鰷魚出遊從容，是魚樂也。”惠子曰：“子非魚，安知魚之樂？”莊子曰：“子非我，安知我不知魚之樂？”惠子曰：“我非子，固不知子矣，子固非魚也，子不知魚之樂，全矣。”莊子曰：“請循其本。子曰汝安知魚樂雲者，既已知吾知之而</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="history" scheme="http://books.dex.moe/tags/history/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>史记 - 列传</title>
+    <link href="http://books.dex.moe/2022/06/07/shiji-liezhuan/"/>
+    <id>http://books.dex.moe/2022/06/07/shiji-liezhuan/</id>
+    <published>2022-06-07T16:36:22.000Z</published>
+    <updated>2025-07-18T01:30:04.359Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="伯夷列传-（傥所谓天道，是邪非邪）"><a href="#伯夷列传-（傥所谓天道，是邪非邪）" class="headerlink" title="伯夷列传 （傥所谓天道，是邪非邪）"></a>伯夷列传 （傥所谓天道，是邪非邪）</h3><ul><li>什么时代？ 商末周初</li><li>为何第一？ “末世争利，维彼奔义；让国饿死，天下称之。做伯夷列传第一。”</li><li>“以暴易暴兮，不知其非矣”</li><li>古人的义有层次</li><li>伯夷不怨，太史公也不怨</li><li>求仁得仁，又何怨哉</li><li>读书&#x2F;做事的功夫：<ul><li>设身处地</li><li>揣摩通透</li><li>体贴入微</li><li>洞见表里</li></ul></li><li>君子怀刑（典型，指人品堪为典范的人物），小人怀惠（小恩小惠，恩惠）</li><li>韩愈 《伯夷颂》：若伯夷者，特立独行、穷天地互万世而不顾者也。 信道笃而自知明也。</li><li>好名者必作伪</li><li>天不生仲尼，万古如长夜</li><li>天道是否有报？<ul><li>第一层次：求仁得仁</li><li>第二层次： 就对象论，有己身之报，有子孙之报；就时间论，有生前之报，有死后之报；就方式论，有福报，有名报；</li><li>第三层次： 天道有报，报中有人，尽人事。人事已尽，方显天道。但求尽人，不责于天。</li></ul></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;伯夷列传-（傥所谓天道，是邪非邪）&quot;&gt;&lt;a href=&quot;#伯夷列传-（傥所谓天道，是邪非邪）&quot; class=&quot;headerlink&quot; title=&quot;伯夷列传 （傥所谓天道，是邪非邪）&quot;&gt;&lt;/a&gt;伯夷列传 （傥所谓天道，是邪非邪）&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;什么时代</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="history" scheme="http://books.dex.moe/tags/history/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>史记 - 世家</title>
+    <link href="http://books.dex.moe/2022/06/07/shiji-shijia/"/>
+    <id>http://books.dex.moe/2022/06/07/shiji-shijia/</id>
+    <published>2022-06-07T16:35:27.000Z</published>
+    <updated>2025-07-18T01:30:04.359Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="吴太伯世家-（道德与成败）"><a href="#吴太伯世家-（道德与成败）" class="headerlink" title="吴太伯世家 （道德与成败）"></a>吴太伯世家 （道德与成败）</h3><ul><li>太伯让国的故事</li><li>吴国的建立与发展</li><li>吴王阖闾的崛起</li><li>吴国与越国的争霸</li><li>吴王夫差的兴衰</li><li>对道德与成败关系的思考</li></ul><h3 id="齐太公世家-（贤能治国）"><a href="#齐太公世家-（贤能治国）" class="headerlink" title="齐太公世家 （贤能治国）"></a>齐太公世家 （贤能治国）</h3><ul><li>姜子牙辅佐周武王</li><li>封齐建国</li><li>齐国的政治制度与文化传统</li><li>齐桓公与管仲</li><li>齐国称霸春秋</li><li>齐国在战国时期的兴衰</li><li>齐国对中国文化的贡献</li></ul><h3 id="鲁周公世家-（礼制与文化）"><a href="#鲁周公世家-（礼制与文化）" class="headerlink" title="鲁周公世家 （礼制与文化）"></a>鲁周公世家 （礼制与文化）</h3><ul><li>周公旦辅政与东征</li><li>封鲁建国</li><li>鲁国的礼乐制度</li><li>孔子与鲁国</li><li>春秋时期鲁国的政治局势</li><li>鲁国在礼乐文化中的地位</li><li>鲁国的衰落与灭亡</li></ul><h3 id="燕召公世家-（边疆政治）"><a href="#燕召公世家-（边疆政治）" class="headerlink" title="燕召公世家 （边疆政治）"></a>燕召公世家 （边疆政治）</h3><ul><li>召公奭封燕</li><li>燕国的地理位置与特点</li><li>燕国与周边民族的关系</li><li>燕昭王求贤</li><li>燕国在战国时期的兴衰</li><li>燕国的文化特色</li></ul><h3 id="管蔡世家-（藩属与叛乱）"><a href="#管蔡世家-（藩属与叛乱）" class="headerlink" title="管蔡世家 （藩属与叛乱）"></a>管蔡世家 （藩属与叛乱）</h3><ul><li>管叔、蔡叔的封地</li><li>管蔡之乱</li><li>周公平叛</li><li>管蔡后裔的发展</li><li>对藩属制度的反思</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;吴太伯世家-（道德与成败）&quot;&gt;&lt;a href=&quot;#吴太伯世家-（道德与成败）&quot; class=&quot;headerlink&quot; title=&quot;吴太伯世家 （道德与成败）&quot;&gt;&lt;/a&gt;吴太伯世家 （道德与成败）&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;太伯让国的故事&lt;/li&gt;
+&lt;li&gt;吴国的</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="history" scheme="http://books.dex.moe/tags/history/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>史记 - 本纪</title>
+    <link href="http://books.dex.moe/2022/06/07/shiji-benji/"/>
+    <id>http://books.dex.moe/2022/06/07/shiji-benji/</id>
+    <published>2022-06-07T16:34:40.000Z</published>
+    <updated>2025-07-18T01:30:04.359Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="五帝本纪-（好学深思，心知其意）"><a href="#五帝本纪-（好学深思，心知其意）" class="headerlink" title="五帝本纪 （好学深思，心知其意）"></a>五帝本纪 （好学深思，心知其意）</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;五帝本纪-（好学深思，心知其意）&quot;&gt;&lt;a href=&quot;#五帝本纪-（好学深思，心知其意）&quot; class=&quot;headerlink&quot; title=&quot;五帝本纪 （好学深思，心知其意）&quot;&gt;&lt;/a&gt;五帝本纪 （好学深思，心知其意）&lt;/h3&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="history" scheme="http://books.dex.moe/tags/history/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Love in the Time of Cholera 霍乱时期的爱情</title>
+    <link href="http://books.dex.moe/2022/06/07/love-in-the-time-of-cholera/"/>
+    <id>http://books.dex.moe/2022/06/07/love-in-the-time-of-cholera/</id>
+    <published>2022-06-07T16:22:02.000Z</published>
+    <updated>2025-07-18T01:30:04.358Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天爬山跑步的时候听了podcast《文化有限》的<em>vol.128 霍乱时期的爱情，诚实的生活，爱的时候不必撒谎</em>，因为我很久不读小说了，所以还是有些感触。嘉宾们主要讲了两点，<strong>魔幻现实</strong>和<strong>爱情</strong>。</p><p>其中有个观点让我感到有些共鸣。大概意思是，阿里萨对达萨的感情更多的是占有欲和征服欲而不是爱情，阿里萨等了女神达萨50多年，如果是真的为她好的话可能当达萨一开始嫁给乌尔比诺医生的时候就祝福她了，而不是一直默默等待，像盖茨比一样翻身后，等到医生死后再跟女神表白在一起。我感觉主要观点就是如果你得不到某一个人的人的时候看到她跟更合适的人在一起就应该祝福她过的更好，这才是爱情，而一定要拥有的在今天的观点看来可能不是可怜&#x2F;爱情，而是一种占有欲&#x2F;征服欲。我也有遇到类似的情况，但我有点分不清，我当时是祝福她过的更好，但如果她没有过的更好或者说我如果是更合适的那个人，那别人是不是应该祝福我呢，所以我觉得可能更多的取决于每个人的感觉&#x2F;选择，不管怎么样作为成年人都应该要对自己负责了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天爬山跑步的时候听了podcast《文化有限》的&lt;em&gt;vol.128 霍乱时期的爱情，诚实的生活，爱的时候不必撒谎&lt;/em&gt;，因为我很久不读小说了，所以还是有些感触。嘉宾们主要讲了两点，&lt;strong&gt;魔幻现实&lt;/strong&gt;和&lt;strong&gt;爱情&lt;/strong&gt;。</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="novel" scheme="http://books.dex.moe/tags/novel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>报任少卿书</title>
+    <link href="http://books.dex.moe/2022/06/03/baorenshaoqingshu/"/>
+    <id>http://books.dex.moe/2022/06/03/baorenshaoqingshu/</id>
+    <published>2022-06-03T13:00:14.000Z</published>
+    <updated>2025-07-18T01:30:04.357Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://zh.m.wikisource.org/zh/%E5%A0%B1%E4%BB%BB%E5%B0%91%E5%8D%BF%E6%9B%B8">《报任少卿书》原文</a></p><h3 id="为何读《报任少卿书》"><a href="#为何读《报任少卿书》" class="headerlink" title="为何读《报任少卿书》"></a>为何读《报任少卿书》</h3><ul><li>李陵之战的真相</li><li>明主不深晓</li><li>死有重于泰山，有轻于鸿毛</li><li>恨私心有所不尽</li><li>究天人之际，通古今之变，成一家之言</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://zh.m.wikisource.org/zh/%E5%A0%B1%E4%BB%BB%E5%B0%91%E5%8D%BF%E6%9B%B8&quot;&gt;《报任少卿书》原文&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;为何读《报任少卿书》&quot;&gt;&lt;a href=&quot;#为何</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="history" scheme="http://books.dex.moe/tags/history/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>史记 - 太史公自序</title>
+    <link href="http://books.dex.moe/2022/05/30/shiji-taishigong/"/>
+    <id>http://books.dex.moe/2022/05/30/shiji-taishigong/</id>
+    <published>2022-05-30T04:44:02.000Z</published>
+    <updated>2025-07-18T01:30:04.359Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近有幸听了台湾国立大学<a href="https://www.youtube.com/watch?v=Ap0w3PgSK7g">吕世浩老师的TED演讲</a>，虽然是2014年的视频了，但经典的力量是可以穿越时间的，让我重新燃起对读&#x2F;了解中国历史的热情，因为看到有说mooc便上网所搜一下发现了在coursera上的两门课，一门是讲秦始皇的，一门是读史记的，我对秦始皇也很感兴趣，但时间有限的情况下我还是想先了解史记，“史家之绝唱”，因为很多人读过都说好。经典永流传。而且又有老师带着读，何其乐也。</p><h3 id="从哪里读起？"><a href="#从哪里读起？" class="headerlink" title="从哪里读起？"></a>从哪里读起？</h3><p>老师第一节课就带我们了解了史记的序是序章+目录的，所以在全书最后一章太史公自序，司马谈和司马迁的故事。司马谈是怎么教育司马迁，让司马迁成为一个非常厉害的太史公的故事，不仅仅言行身教，请了最好的老师，同时资助司马迁游历大江南北，行万里路。汉武帝在泰山封禅但没有邀请太史公司马谈一同前往，所以司马谈以为是天命，卧床不起，但依然以撰写流传天下的论著为己任而传承与司马迁。</p><ol><li>孝 事亲-事君-立身，（孝经）：立身行道，扬名于后世，以显父母，孝之终也</li><li>中国文人志士的责任感</li><li>诗 书 礼 乐 春秋</li><li>当仁不让于师 责无旁贷</li><li>志者，士之心也</li><li>（左传）立德 立功 立言</li></ol><h3 id="太史公自序"><a href="#太史公自序" class="headerlink" title="太史公自序"></a>太史公自序</h3><ol><li>十二《本纪》 -&gt; 记天下的中心 能够宰制天下者</li><li>十《表》 -&gt; 表天下之大势，及理乱兴旺之大略，而观一时之得失</li><li>八《书》</li><li>《世家》</li><li>《列传》</li><li>一共130篇，52万6千500字，原名《太史公》，正本副本设计，流传2000余年</li></ol><h3 id="史记的特质"><a href="#史记的特质" class="headerlink" title="史记的特质"></a>史记的特质</h3><ol><li>史 - 正史鼻祖</li><li>集 - 散文大宗</li><li>子 - 一家之言</li><li>经 - 百王大法</li></ol><p>非仅一代良史，明为百王大法</p><h3 id="史记为何伟大"><a href="#史记为何伟大" class="headerlink" title="史记为何伟大"></a>史记为何伟大</h3><ol><li>下功夫，父子两代</li><li>有天才，疏宕有奇气</li><li>有资料，遗文古事靡不毕集</li><li>有家世，天官世家，太史世家</li><li>有教育，孔安国，董仲舒</li><li>有历练，二十而壮游天下</li><li><strong>有境界</strong>， “天机”（庄子说“嗜慾深者天机浅” ） -&gt; 太史公的境界从忠孝心中而来</li><li>尽己之谓忠（做好自己本职工作），以显父母之为孝（出人头地，让别人知道父母教育的成功才是最高级的孝顺）</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近有幸听了台湾国立大学&lt;a href=&quot;https://www.youtube.com/watch?v=Ap0w3PgSK7g&quot;&gt;吕世浩老师的TED演讲&lt;/a&gt;，虽然是2014年的视频了，但经典的力量是可以穿越时间的，让我重新燃起对读&amp;#x2F;了解中国历史的热情，因为看</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="history" scheme="http://books.dex.moe/tags/history/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>说好不分手</title>
+    <link href="http://books.dex.moe/2022/05/29/fenshou/"/>
+    <id>http://books.dex.moe/2022/05/29/fenshou/</id>
+    <published>2022-05-29T17:29:01.000Z</published>
+    <updated>2025-07-18T01:30:04.358Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前提摘要"><a href="#前提摘要" class="headerlink" title="前提摘要"></a>前提摘要</h3><p>没想到一晃距离上次更新这个小站已经过去两年了，上次更新的时候我还是大学生，现在已经毕业工作好久了。感觉陆陆续续读了不少的书，但都没怎么记录，很多读完也不太记得了。或者我也没有太多的冲动去记录或者分享下自己所学习到的，当然也跟我读书时间变少有关，感觉去年在香港一直浑浑噩噩的，不是在倒卖吉他就是在赶工，但还是一篇论文都没能发表，主要原因肯定还是我自己工作效率不高，然后也是因为做的方向感觉不是特别容易能发表的，进度比较缓慢，到现在也没有把之前的任务再完成。而最近有了工作以后，感觉更不想做不感兴趣的学术了，工业界也许因为我在的公司就我一个中国人，所以真的是活少钱多，而且远程工作也是我理想的生活，唯一就是疫情原因困在乡下，但也挺好，每天生活作息都很规律，没什么花销，赚的钱还完贷款后都能存下来。当然我其实也可以去全世界任何地方，只要每天还能参加standup报告这样。Anyways，我还是有准备考试，毕竟我觉得我做学术的沉默成本不低，然后我也有一些想法能做一些有意义的工作。当然也需要更多的练习，可能还是再工作一段时间看看。</p><h3 id="之前的感情"><a href="#之前的感情" class="headerlink" title="之前的感情"></a>之前的感情</h3><p>距离我上一段正式的感情结束可能有两三年的时间了吧，也是我第一次生理和心理上真正体会到喜欢&#x2F;爱一个人的感觉，当然我也没做太出格的事情，只是因为对方有男朋友或者说有更好的选择而拒绝了我，当然我也不知道我们能不能算交往，只是每天一起吃饭，一起学习，一起看电影，可能也只是个学伴。不过都过去挺久的了，虽然我是到最近才真正的走出来（我真的比较慢热），看到她又跟我发男朋友的情头就彻底放下了。其实之前在她主动找我聊天的时候还有一些幻想，但很快就被现实击溃了。不过她还是对我产生了一些深远的影响，比如是促使我又拾起吉他的直接原因，然后我也有很多反思，1）尊重对方的选择。我记得有一个moment是我们走在路上，她突然蹲下问我“我们该怎么办？你是怎么考虑的”我当时就懵了，我一直都没有什么临场应变的能力，所以当时唯一能做的或者说想到的就是先扶她起来，然后也不知道说什么，但如果是现在的我，应该会说“我尊重你的选择”，不管怎么样选择都是每个人自己做并且需要为之承担责任的，就像我当时的承诺可以为了她放弃出国也是真心的，但是错过了那个时机之后就的确不太能做出相同的承诺，所以我后来都会去世界上不同的地方去认识不一样的朋友。当然，像感情这种双向选择的事情，选择权不仅仅在我手里，更是在对方手里，我也不能越俎代庖帮别人做决定，不合适其实也没什么，好聚好散，也不需要一味讨好&#x2F;打扰别人。2）有礼有节，耐心倾听。我一般都是会回礼的，滴水之恩当以涌泉相报，当然送礼这个事情跟“恩情“也不太一样，但我觉得还是可以适当的回赠礼物的 3）照顾别人之前，先做好自己，有时候一味的付出也只能感动自己。 4）想做就做别拖别等别后悔</p><h3 id="本书的学习"><a href="#本书的学习" class="headerlink" title="本书的学习"></a>本书的学习</h3><p>虽然我自己有一些反思，但我在感情上的确是稚嫩的，并不是很懂得如何与异性相处，所幸在互联网时代很多智慧&#x2F;经验都在网上能找到，以前我比较习惯问quora，现在中文的话可以看看知乎，虽然我也明白别人的经验不一定能套用在自己身上，但有些问题或者做法别人的经历或者经验的确能给我很多启发。然后我就看到了知乎id <a href="https://www.zhihu.com/people/xi-you-xian-sheng-65">九颜</a> 的大哥，他的很多回答让我觉得很有启发，至少他的说法是符合我的认知的。然后看到他有出一本书叫<a href="https://www.zhihu.com/pub/book/120291730">《说好不分手——如何体面地挽回一段感情》</a>就买回来看了。书不厚很快就看完了。</p><ul><li>”爱的基础是尊重，一旦失去了尊重，感情肯定会失衡“</li></ul><p>分手初期该怎么做：</p><ol><li>首先，给自己找点事情做</li><li>其次，给自己找一些心灵寄托</li><li>最后，清除掉哪些能勾起回忆的“心锚”</li></ol><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>虽然读完了，但我感觉两性问题很多的确读过就是读过，因为我也没有太多实践的经历，所以就有个大概的了解，以后遇到可能知道怎么处理，但感觉更多还是找到合适的人，我原本相信命中注定，但现在觉得更多还是相处，门当户对？当然我也不一定继续在国内卷。每个人的可塑造性都还是很强的，特别是像我这样子的，特别容易适应。ISFJ（by MBTI test)， well, I am still trying to figure out why is MBTI solid.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;前提摘要&quot;&gt;&lt;a href=&quot;#前提摘要&quot; class=&quot;headerlink&quot; title=&quot;前提摘要&quot;&gt;&lt;/a&gt;前提摘要&lt;/h3&gt;&lt;p&gt;没想到一晃距离上次更新这个小站已经过去两年了，上次更新的时候我还是大学生，现在已经毕业工作好久了。感觉陆陆续续读了不少的书，</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="love" scheme="http://books.dex.moe/tags/love/"/>
+    
+    <category term="relationship" scheme="http://books.dex.moe/tags/relationship/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>白非立上进记</title>
+    <link href="http://books.dex.moe/2020/08/22/baifeili/"/>
+    <id>http://books.dex.moe/2020/08/22/baifeili/</id>
+    <published>2020-08-22T16:55:42.000Z</published>
+    <updated>2025-07-18T01:30:04.357Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/91072728">小说传送门</a></p><p>这部小说大概是我今年看到过最有意思的小说了，我觉得这种小说才能说是魔幻现实主义（magic realism）,因为很多小的典故或者说是故事我觉得就是我经历过或者看到过的，所以我很容易产生共鸣。如果非要定一个主题的话，我觉得这部小说说的是当下中国的教育现状，小说是源于生活高于生活的，我想作者所写的可能是他所经历过或者是观察到过得现象。小说的主线是主人公白非立（白费力）从大一开始以清华为目标后来觉得清华算什么，他要考斯坦福，这才不人云亦云，显得有本事，到最后本校保研、考研均失败，找工作不利，只靠关系录了个211研究生。这其中的故事曲折而又离奇。有很多有意思的片段，笔者想要结合自己的所见所闻谈谈。</p><blockquote><p>那个高三暑假的夏天，白非立逢人便说，自己高考那几天不幸重感冒，被分配的考场正好倒霉催得，还有空调，空调还正好调得温度很低，门窗紧闭。<br>然而事实上，高考那天白非立并没有重感冒，甚至精神状态还异常地好，考试的时候还遇到了好几道自己复习过的题，能考这个分数确实如同学所说的，已经是超常发挥了，毕竟平时的成绩摆在那里，不会说谎。</p></blockquote><p>我高考也跟主角差不多，是正常发挥，有点点超常发挥，我觉得高考大部分人都是这样，或者说少部分所谓“发挥失常”的同学也只是让其他干瞪眼的。<code>有三个一脸冷漠地对他说，“那你去复读学校复读去啊！明年拿理科状元”</code> 我想很多人也都有相似的经历，就是高考完后觉得我要复读吧，毕竟普通人大部分都有点眼高手低，觉得自己展示出来的远远比不上自己真实的水平，然后就以‘复读’这个名头再战一年，当然结果也还会因人而异，不过简单地说笔者认为如果你原本连一本都没考上的话复读还是有用的，但如果是一本线上，复读不一定有用，意思是从0到80很容易，但从80到100会更艰难。所以我最后也就上了个非985 211的普通一本（虽然是中外合办）。我一开始还想说要不上安徽大学或者合肥工业大学的铜陵分校吧，但现实是因为分数不够，我去了专业也是极差的。所以最后我爸说家里多花点钱让我上合办的。但是更早（高二）时我一直以为自己可以考sat然后直接去美国读书的。后来一个因为家里经济不行了，第二个是因为我没有努力去争取，所以就放弃了（现在想想我很多时候都放弃了机会，只能是偶尔有贵人相助 抓住机遇）</p><blockquote><p>二牛说，要不他脑子不好使呢，清华的学生就算读研，会首选留本校吗？肯定都出国了啊！</p></blockquote><p>中国大陆的现实就是这样，土博土硕都不如欧美文凭好，当然我去了新加坡发现也是如此，美国的文凭基本是世界通行，而其他很多国家的最多是本国通行。</p><blockquote><p>其实是白非立太拿自己当回事儿了，自己的这种事情最多也是别人无聊时打发时间的一种笑料，饭局上有那么多事儿能聊呢，大家宁愿回味一下欧洲杯上金童托雷斯的惊人进球，也不想提白非立的考研梦。<br>觥筹交错间，白非立忽然想明白了，二牛说得对，真正优秀的学生肯定不留本校读研了，就算自己考上了清华研究生，最后还是输了。</p></blockquote><p>每个人都觉得自己是独特的，特别是独生子女更是如此。其实可能小时候我也觉得有输赢，但是大了就觉得人生没有输赢，更多的是旅程，我在乎的是沿途的风景。</p><blockquote><p>小胖子用手背抹了抹粘在嘴边的饭粒，又喝了一口汤说，当然能听懂了，他讲的是我们江苏省XX县的方言！<br>当有学生追问老师，这种思路到底是怎么来的，以及为什么要用这种方法计算这道题的时候，这老师就只会边咳嗽，边重复那句话，“你就想啊，然后就出来了！”</p></blockquote><p>大学四年我遇到各式各样的老师，但因为学校对高水平教师并没有吸引力，所以来我们学校的老师有的之前只是教三本的，而他们又被要求用英文上课，可想而知这对我这样不适应中式或者杂式英语口音的同学来说是一种煎熬，以至于我大概从大二开始就不怎么去上课了，因为如同所有其他中国的大学一样，考试是有范围的，而范围都是从往年的题目中来的，所以一般你把前几年的题目都做一遍，就能拿到高分了。但偶尔也有更奇葩的老师，因为自身水平的局限，把正确的改为错误的，错误的以为是正确的。又囿于学校的政策，学生也不能对这样的老师提出质疑。不过鉴于中国的人口总数，行政或者学校的人口冗余可能也是缓解压力的一个方法，据我了解，现在很多大学都开始扩招，使得更多的年轻人有事做，不至于像香港那些参与街头暴力的一样。教师的问题有很多，因为即使像我这样非常不愿与他人打交道的，在自己的核心利益受损的时候也不得不站出来向其他人，高层或者同学喊话，以自证或者举证，但现实中即使我有了充足证据证明我的正确和“老师”的错误，学校方面也有各种理由搪塞，特别是你“上面“没人的时候。只不过我不知道这是中国特有的还是世界上其他地方也是这样子的。</p><blockquote><p>没想到周六的图书馆人还挺多，大部分桌子都坐满了人，白非立把整个图书馆上下跑了个遍，最后才在一个角落里发现了一张一个人都没有的大桌子，这桌子平时能坐四个人，挤一挤可以坐六个人，白非立坐在了一个角上，开始艰难地看起了高数书。<br>正当白非立痛苦地跟柯西，拉格朗日，洛必达斗智斗勇的时候，身边走过来一群人，他们迅速把这张只坐着白非立一个人的桌子给占领了。<br>此时这张桌子已经挤满了七个人，左右两边都已经坐了人的白非立开始觉得有些不自在，但想了想图书馆本来就人多，也就忍了，继续强忍着内心无限的焦躁，埋头看书推导公式。<br>但不一会儿，又来了三四个人，搬着凳子围坐在桌子周围，并且这些人开始小声互相说话起来，白非立的内心已经开始由焦躁升级到了愤怒，扭头跟身后说话的人说，同学，图书馆请保持安静。<br>没想到那人就像没看到白非立一样，继续跟别人说话，而且参与讨论的人还多了起来，这时候白非立才发现，这群人原来是新闻专业的学生搞完社会调查，来图书馆做小组讨论了，问题是占座也得讲个先来后到吧，不能因为你们人多，就可以为所欲为吧！<br>但事实告诉白非立，在图书馆里，人多还真的就可以为所欲为，至少在占座这件事上是这样的，最后白非立不得不收起高数书，冲着一群人大骂了一声“拉格朗日！”然后愤怒地走出了图书馆，发誓再也不来图书馆这种藏污纳垢的地方了。<br>走在路上的白非立心里窝火又愤怒，习惯性地重复了自己的那句名言：“鱼腩985就是鱼腩985，一群垃圾学生和废物！”</p></blockquote><p>这段描写特别生动形象，占位也是有特色的。不过我想学校也总是有一些”不为人知“的角落可以给学生用来自习。</p><blockquote><p>可如何逃离，怎么才叫做逃离这种细节上的问题却一直困扰着白非立，于是在开学后长达几个月的时间里，白非立就陷入了一种循环，只要感觉过得不爽，就会想起胜利大逃亡计划，想起计划就要去想如何实施，想到如何实施就一片茫然，越想越头疼，越想越烦躁，一烦躁就一怒之下不想了，一不想就觉得啥也不用想的感觉真爽，真爽的日子总是很短暂，很快就又会因为一些琐事而感到不爽，感到不爽就会想起胜利大逃亡计划… …</p></blockquote><p>我没有主角这样顺利大逃亡的经验和体验，但也陷入过类似的循环白白消磨时间。也体会到过主人公这种成绩不如自己预想中的好。从所谓的”大神“跌落到”废柴“，但后来就会用阿Q精神法麻痹自己，”总有比我差得呢“，亦或者是主人公”等着吧，下学期“的想法。但我的成绩从大二开始是一学期比一学期差了，直到大四上出去一年回来。不过我跟主人公不一样的是，国内抄袭成风，但我一直都没想过要抄袭，我一般都是要是抄袭的话还不如不做，所以后来就经常错过很多的deadline，因为我对时间越来越不重视了。虽然说慢工出细活，但实际上更多时候只是在拖延。我比较喜欢MKJ的一首歌 <a href="https://www.youtube.com/watch?v=fwcYuL6Z74E">Time</a> 其中就说 <code>In the end, you may falter, but rest assured time will not</code> （这首歌主要是在讲时间的重要性，有兴趣可以听一听）</p><blockquote><p>白非立也附和道，都两年了，你还没发现吗，咱们学校的授课老师基本上都这水平，要么是讲江苏县城方言的，要么是板书大师，要么就是这种你就想啊派，要不你觉得我大一的神秘学科为啥会挂科，还不是因为那个老师基本上也是属于你就想啊派的，我不会的点她始终都避而不谈，要么上课照着课本念，要么答疑课照着答案念。</p></blockquote><p>主人公的专业有人转走有人转来，虽然现在说是天坑，但也是学校的王牌专业。笔者回首大学专业，觉得选自己觉得好的可能还真不如选学校的王牌，至少在录取上就不是一个层级的，比如生物每年有一个去哈佛，而计算机最多也只是藤校。有人会说计算机就业好，但是当所有人都觉得这个好的时候这个泡沫已经很大了，特别是每一年专业人数呈现几何式增长，必然会造成低技能人员找不到工作，高级能人才则竞争压力激增。</p><blockquote><p>高数老师就这么津津有味地讲大龄毕业生补考的段子一直讲到了下课，白非立这次竟然全听懂了，因为他原本以为考前老师会划重点，所以他专门提前跟那个江苏的小胖子打好招呼，花了一百块钱请小胖子吃了一顿小烧烤，然后一起去上课，坐在小胖子的旁边，要小胖子给他同声传译。<br>没想到，这一百块钱啥也没买到，临近下课，白非立实在忍不住了，举手提问了高数老师，说这次考试没有什么重点吗？<br>高数老师大手一挥，指着课本说，我讲过的都是重点，课本上没讲过的就可以不用看啦！放心，肯定不会考！</p></blockquote><blockquote><p>白非立一个人跑到学校门口的网吧里，在电脑上打开了实况足球8，选了较为简单的两颗星难度，用巴西队连续虐中国队二十局三十比零，才算稍微消了消心头的怒火。</p></blockquote><p>笔者看到这会心一笑，初衷时玩fifa也是会用强队打弱队，相当于万能上帝对付普通人，简单粗暴的说就是”爽“，但可能如同王小波的名言一样「人的一切痛苦，本质上都是对自己无能的愤怒」</p><blockquote><p>在聚会上白非立了解到，当年初中同学，头一年高考考上985大学的只有四五个，上一本线的也不到二十个，今年复读的也就一个考上了211。<br>看着当年初三时在成绩上一直和自己较劲而分不出上下的王大鹏羡慕的眼光，白非立内心得到了极大的满足，毕竟这小子今年又复读了一年才考上了东北一个鸟不拉屎的城市的双非大学，想想以后自己将会和面前的这位傻小子人生的差距越拉越大，白非立内心不禁笑出了声。<br>在确认了这次考试至少会有三分之一的人跟自己一起挂科后，回到宿舍躺在床上的白非立心里面削微舒服了一些。</p></blockquote><p>笔者因为高中出国交流的原因没有参加过小学、初中同学在高考后的聚会，一方面有点遗憾，另一方面也有些庆幸，我知道一些去处比我好，一些去处没我好，但那有如何呢，笔者并不通过跟其他人比较获得满足感。不过接下来</p><blockquote><p>闲聊中白非立得知，去年本来考上了东北双非大学的王大鹏，在开学一个月后，觉得学校环境太烂了，主要是这天坑三学的专业自己既不喜欢，又学不会，于是，越想越不甘心的王大鹏一怒之下就退学了，在十月份又回到了高中再次复读了。<br>今年高考后，直接考入了Top5大学。<br>考上好大学的效果是双倍的，一倍是自己实现了学校层次的提升，另一倍则是自己追了N年都没追到的陈小丽在得知自己考上了Top5大学之后，终于同意跟自己在一起了。<br>听到这里，白非立嘴里的小酥肉一下子就不香了，把端过来本来准备继续边扯淡边涮的菜也推到了一边，从兜里掏出五十块钱放桌子上，说自己下午家里忽然有事儿，就不去唱歌了，头也不回地走了。</p></blockquote><p>幸灾乐祸不可取。</p><blockquote><p>梁俊杰闷头走路，心里觉得自己如此这样的实验天才，居然也混到了靠别人的东西瞒天过海，蒙混过关的地步，真是莫大的耻辱，越想越烦躁的梁俊杰冲着白非立连吼三个，滚字，让白非立永远都不要再和他一起做任何事！never！<br>想到这里，白非立决定从头开始好好看实验教材，发誓要学好所有实验步骤，以后实验课不求任何人，让别人都求着抱自己这个大腿！</p></blockquote><p>笔者也觉得求人是很麻烦的，不如自己解决。</p><blockquote><p>所以，教材只是一个摆设，甚至老师课上讲的东西也只是走个过场，最后考试的范围才是核心，什么考，什么不考，以及考试的风格摸清楚了才是学好这种坑专业特色课 的关键。</p></blockquote><p>所有考试都是这样的吧。毕竟考试只是知识的子集。</p><blockquote><p>在背着书包回宿舍的路上，白非立故意拐弯路过了学校门口的小咖啡馆，从窗户外一眼撇进去，看见了班上的升哥和小云坐在一张圆桌子前卿卿我我，白非立边走边扭头叹气，自言自语道，班上就这一个好看的女生，还被痞子升得手了。<br>站了一会儿的白非立一个人走下楼，偷摸地溜到升哥的宿舍门口，蹲在旁边假装打电话的样子，一只耳朵听着宿舍里面的动静，一晚上都听升哥在跟自己的舍友吹自己这两天的光辉事迹，听了十几分钟的白非立感觉内心更加酸痛了，他赶忙跑到外面，在操场上一个人闷头狂奔，发泄心中的郁闷，他不明白自己一个看热闹的人，为啥会越看越心酸，反倒像是自己失恋了一样。</p></blockquote><p>只要胆子大，哈哈哈。</p><blockquote><p>销售说，我们这个全包服务原价是九万八，现在搞活动，只要四万九千八就可以了，如果今天就签约，还能免费送您十节托福课。<br>被价钱震住的白非立故作镇定地回了一句，我和家里人商量一下，过两天再给您答复。<br>拿着计划表出来的白非立边稳住自己的心跳，边嘲讽地说，计划都到手了，我自己DIY照着做也行啊，干嘛要人家当个保姆催我进度！<br>下课后，白非立一怒之下去柜台把托福班给退了，手里拿着一千八的现金，白非立心想，有这一千八，干点啥不好呀，连续吃一周的金钱豹自助，他能不香吗？</p></blockquote><p>实话实说：留学中介和各种培训班作用真的不大。</p><blockquote><p>最后白非立还不得不跟一群人一起祷告，以结束这次“愉快”的聚餐，然后目送韩国人带着两个大专女生走了。</p></blockquote><p>感觉是在暗示山X大学的留学生”选妃“</p><blockquote><p>我作为主管教学的院长，本来可以很官方地回你一句，我们学院办事都是按流程办的，你所反映的情况，我们暂时还没发现异常，无需处理！<br>我天天看你们这些小年轻瞎折腾，我好心提点你一下，说实话，我今天跟你说这么多，是你的福分！人家那些能成大事的人，格局不知道比你现在的要大到哪里去了，你可要好好反思一下，增长自己的知识水平啊！</p></blockquote><p>非常中国特色。</p><blockquote><p>笨拙的白非立怎么都摊不好，被站在一旁的万师姐骂得狗血淋头，白非立好多次都想说自己不干了，但想想自己的未来，就又忍住了。</p></blockquote><p>这个我没见过，因为计算机不需要动手实验。</p><blockquote><p>于是白非立决定学习魏自立，也找一个接盘侠。</p></blockquote><p>围城。</p><blockquote><p>尚老师说，咱们学校的任何一个博士，只要能发Nature的，毕业自动留校直接正教授，对面实验楼那一层实验室都给他用！（当时的白非立不知道的是，尚老师唯一发表的那篇Nature其实也是二作）</p></blockquote><p>大家都会夸大自己的成绩，比如我引用最多的一篇paper也是二作的。</p><blockquote><p>赵老师叫白非立也别去其他实验室尝试了，说，咱们学院研究生劳动力充足，平均一个通风橱都能均到两三个研究生，本来就不缺人手，实验室倒是一直很紧张，很多老师都觉得本科生碍事，根本不想要，现在又得应付这个计划，就更不会要了，除非你是大四的确定要保研自己实验室的学生。</p></blockquote><p>的确，因为中国人口多，大学人也多，但一个老师能接纳的学生人数有限，可能很多人就没法加入实验室了，这点我在清华的一周深有体会，一次开会6个小时不间断，30多个学生从本科生到博士都有，但这也没办法，僧多粥少，所以如果想避免这种情况可能也只能出国了。</p><blockquote><p>他告诉白非立，别听老西方一些老师的陈年段子，他们总说，只要你不是清北的，你的学校名字对于老外来说都差不多，老外才不知道山东大学和山西大学有啥区别，实际上这些年随着国内留学的人数增多，美国几乎每一所前五十的高校招生办都有精通国内高校情况的人，人家不仅知道山东大学和山西大学的区别，而且还知道暨南大学和济南大学的区别。</p></blockquote><p>中国人会比较外国大学排名，为什么外国人就不会比较中国大学的排名，我觉得像这样子的”知识“应该是常识，但的确有些人放弃了思考，而选择别人说什么就是什么，从来也不主动去思考问题或者尝试去解决问题，亦或者有人告诉ta答案ta也不相信。</p><blockquote><p>为了找回那份感觉，白非立又专门去了初中学校门口的文具店，找到了当时买的写计划的那一款的本子和中性笔，回来后工工整整地在本子的第一页写下了这次计划的名字：“我要发Nature!”<br>第二天，白非立就把寒假写的“我要发Nature”计划撕得粉碎，决定暂时不再去实验室刷论文了，专心考好GT，搞好绩点，争取也能去到州立大学。</p></blockquote><p>一开始的远大理想最终也都只是说说而已，接受了自己只能是一个”废物“的事实。”就这样也不错了“，当然笔者作为旁观者来说觉得无可厚非，但是看到主人公这样滚下山坡的经历也觉得有些唏嘘。</p><blockquote><p>白非立马上翻着白眼说，英联邦的野鸡硕士不是给钱就能上嘛，有啥好学习的，你现在给我一年的学费和生活费，我找个中介，明年这时候，我给你至少十个大学的硕士录取通知书！而且肯定有很多学校比她那个知名得多！</p></blockquote><p>笔者也有过责怪父母的思想，后来觉得没啥用，不如跑路实在，或者自己去贷款&#x2F;赚钱。</p><blockquote><p>白非立在心里想，考研还考本校的，真是没出息，SB才考本校呢，还说自己厉害，我看又是一个混子，混到毕业，跪求老板赏了个留校的名额。</p></blockquote><p>笔者一开始也是这么想得，但是后来觉得觉得有同学上本校又有何不可呢，人都是有惯性，有些人觉得现状已经是最好的了，通过比较得到自信。</p><blockquote><p>英俊哥说，你自己太闭塞你怨谁，整天搞得自己跟个独行侠似的，你不知道的事儿还多着呢！回去好好反思反思自己，看看能不能改，能改就改，不能改就算了，那就马上关掉你的好奇心，别整天打听这个打听那个的。</p></blockquote><p>既然做了”独行侠“，就别再做”八婆“了吧。</p><blockquote><p>这时候，坐在另一边的叔叔也说话了，是啊，我干活的那个工厂，新来了三个大学生，都是跟着我这个中专生打下手，老板根本不把他们放在眼里，人家还是Top3大学毕业的，可比你强多了，所以，你还是得听你舅舅的话，他和你学一个专业的，又在这个行业工作，肯定比你看得远，年轻人不要太气盛，好高骛远，最后后悔的还是自己。<br>这时候包括父母在内的七大姑八大姨也纷纷劝白非立，有书继续读，当然要继续读，家里又不指望你早点出来挣钱，人家想读研都还碍于家里条件读不了呢，你别不当回事儿。<br>经过一晚上的轮番轰炸，直接把脑子本来就有点不清醒的白非立给轰炸懵了，他当场就嘴软了，并马上改变了立场，从一开始的坚决不考研，要出去工作，变成了自己去看看，能考什么研究生。</p></blockquote><p>”不怕神一般的队手，就怕猪一般的队友“</p><blockquote><p>考完后，白非立还专门拦住了一位学霸，问他是如何学习这门课的，为什么能写这么多东西，学霸拍拍胸脯说，自己把那本七八百页的教材上上下下都翻看了几十遍了，里面大部分公式和内容都几乎要背下来了，这就是他能对考试内容对答如流的秘诀，无他，但手熟尔。<br>说完，学霸就走了，走了一半，又回头冲着白非立重复了一句，无他，但手熟尔！</p></blockquote><p>无他，但手熟尔！</p><blockquote><p>正在复习高数全书的白非立边看书边摇头说了一句，在保研面前，脸都可以不要了，打脸算什么！彪悍的人生，没皮没脸，更不怕被打脸。</p></blockquote><p>所有人都向往更好地大学，更好地生活，笔者觉得人生本来就是不公平的，我们需要做的是利用好已有的资源，然后去探索未知的世界。不需要特别在意一时成绩的好坏，保持一颗平常心，不以物喜，不以己悲，多看看书有独立的思考会对以后的生活很有帮助。</p><p>节选大概就这么多，还有很多精彩的地方大家可以自行阅读原文。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/91072728&quot;&gt;小说传送门&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这部小说大概是我今年看到过最有意思的小说了，我觉得这种小说才能说是魔幻现实主义（magic realism）,因为很多小的典故或者说是故事我觉得</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="novel" scheme="http://books.dex.moe/tags/novel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>棋王树王孩子王by阿城</title>
+    <link href="http://books.dex.moe/2020/08/17/sanwang/"/>
+    <id>http://books.dex.moe/2020/08/17/sanwang/</id>
+    <published>2020-08-17T04:45:48.000Z</published>
+    <updated>2025-07-18T01:30:04.359Z</updated>
+    
+    <content type="html"><![CDATA[<p>棋王讲的是一个痴迷于象棋的人的故事。<br>树王讲的是一个护林人的故事。<br>孩子王讲的是一个教书人的故事。</p><p>故事细节我就不赘述了，都不长，感兴趣的可以自行阅读。我读完后觉得有些感动，书中的人物非常生动形象，像是我们身边的人但又是有时代特色&#x2F;背景的。作家创作肯定收到时局的影响，但人性是不变的。人性中的善良良知在文革的时代背景下显得更加难能可贵。棋王的故事总让我想起匠人精神，我自己最近也在当木匠和油漆工，自己定制电吉他，但做了三周最后效果跟自己买到的成品区别还是很大，或者网上的视频的结果跟我的也很有区别。现在我觉得自己还是不浪费时间和精力在木匠和油漆上，可以画更少的时间用来拼装或者制作电路。我看我本科学校工业设计和建筑有买各种木匠设备（cnc，打磨机，喷漆仪器等等）感叹自己如果选了那些专业说不定就可以在学校做吉他了（降低成本+提高工艺）。不过像棋王中提到的精神更接近于一直废寝忘食的痴迷，我原本以为自己也会有这样的感受，但现实中我发现我并没有，工作就是工作，生活更多是吃喝拉撒睡组成的。我并没有一直痴迷于某样事物，特别是互联网的时代我感觉自己的注意力很分散，很容易被不同的事物所吸引。</p><p>树王中让我印象最深的是树王的发问：什么是有用的树？什么是没用的树？的确，就如同我定制吉他时我爸我问我“你做这个有什么意义”一样，我觉得很多事情的意义是人赋予的，或者是被时代赋予的，比如现在孩子如果做的事情不能赚钱的话那么家长就会觉得“没意义”，又比如读书，会让你思考，但并不能直接让你赚钱，我觉得其实他们是忽略了这样没意义的事情丰富了我们的人生。我做了很多没用的事情，有时候是为了自己的愉悦，有时候我自己也觉得没什么意义，但我就是想把这个做好（指上油漆时我反复的上漆又去漆的过程）。我们的价值观的确由时代所主导，但很难说当今时代的价值观就是“正确的”，可能时对于时代来说最有用的，比如金钱至上。但我总觉得我们应该也包容不同的价值观，允许不同的声音出现，虽然说中国主流声音会声称“不畏惧辩论”，但实际上他们只允许符合自己价值观的嘉宾进行讨论。我之前看过传销的条件第一条就是“1、一个封闭的环境，传销人员基本上不会让人跑出去或者听外部的消息。听也只是让你听对传销人员有利的消息。换句话就是你进入传销窝你出不去，而你所有听到的消息都是传销人员给你的。” 所以我觉得媒体应该是自由和独立的，即使有监管，但应该也要让不同声音发声，人们自己是有理智判断正误的，不能把别人当作傻子。</p><p>孩子王的故事让我最为感动，虽然故事主线是围绕教书先生和学生的故事，但讲了一个有能力的人被欺负受到不公正待遇的事情，老师只是想教一些对学生真正有用的事情不想拘于形式，结果就被地方领导辞退了。王福最后写的作业让人潸然泪下，就是这个学生不仅仅很聪明，也善于细心观察。</p><p>我后来又买了阿城的新作《河图洛书》和《昙曜五窟》，书上的插图十分精美。有机会也会写写我的感悟。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;棋王讲的是一个痴迷于象棋的人的故事。&lt;br&gt;树王讲的是一个护林人的故事。&lt;br&gt;孩子王讲的是一个教书人的故事。&lt;/p&gt;
+&lt;p&gt;故事细节我就不赘述了，都不长，感兴趣的可以自行阅读。我读完后觉得有些感动，书中的人物非常生动形象，像是我们身边的人但又是有时代特色&amp;#x2F;背景的</summary>
+      
+    
+    
+    
+    
+    <category term="Chinese" scheme="http://books.dex.moe/tags/Chinese/"/>
+    
+    <category term="novel" scheme="http://books.dex.moe/tags/novel/"/>
+    
+  </entry>
+  
+</feed>
