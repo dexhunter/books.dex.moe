@@ -1,7 +1,7 @@
 add:
 	git add .
 	git commit -m "Update" -s
-	git push origin master
+	git push origin main
 
 deploy:
 	hexo clean
@@ -14,7 +14,7 @@ else
 	@echo "==> Building the porject"
 	git add .
 	git commit -m "Update."
-	git push origin master
+	git push origin main
 endif
 
 clean:
