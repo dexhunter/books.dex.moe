@@ -95,6 +95,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: polk-x
 
+# Google Analytics 4: set your web stream's G-... measurement ID to enable.
+google_analytics: 'G-KFPPTEL79M'
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
