@@ -1,0 +1,7 @@
+---
+title: "Love in the Time of Cholera"
+---
+
+Today while hiking and running I listened to the podcast *Culture Is Limited* (《文化有限》), *vol.128 Love in the Time of Cholera: living honestly, no need to lie when you love*. Since I haven't read novels in a long time, it still stirred some feelings in me. The guests mainly talked about two things: **magical realism** and **love**.
+
+One of the views resonated with me a bit. Roughly, it was that Florentino's feelings for Fermina were more about possessiveness and the desire to conquer than about love. Florentino waited for his goddess Fermina for more than 50 years. If he had truly wanted what was best for her, he might have given her his blessing back when she first married Dr. Urbino, instead of waiting silently all along, and then, after turning his life around like Gatsby, waiting until the doctor died to confess his love and get together with her. I think the main point is that if you can't have someone, and you see her with someone more suitable, you should wish her a better life; that is love. Insisting that you must have her might, by today's standards, not be pity/love, but a kind of possessiveness/desire to conquer. I've been in a similar situation too, but I can't quite tell. Back then I wished her a better life, but what if she didn't end up better off, or what if I was actually the more suitable one? Shouldn't others give me their blessing then? So I think it probably comes down more to each person's feelings/choices. Either way, as adults we all have to take responsibility for ourselves.
